@@ -22,7 +22,7 @@
       "cost_usd": "0.0000"
     },
     "stop_reason": "input_rejected",
-    "stop_message": "PermissionError: Path is outside the sandbox: C:\\Users\\bmore\\MGT409\\.env"
+    "stop_message": "PermissionError: Path is outside the sandbox: <course folder>\\.env"
   },
   {
     "run_id": "ecd16d07115a",
