@@ -1,0 +1,47 @@
+{
+  "student": {
+    "profile_id": "student",
+    "video_path": "data/videos/ad_humble.mp4",
+    "did_well": "notes effectiveness of music video style.   Notes student preference for dark \"streetware\" hoodies. Notes that the entire group fosters sense of belonging, but focusing on 1 individual as opposed to the entire community is a little off-brand for Yale.",
+    "was_bad": "Limitations of taking only still image clips from the video.  Cannot see the rapid cuts associated with a hip-hop music video.  It is unable to get a transcript with the tools available on PortkeyAPIKey.  It is also unable to analyze the music style with the tools given - it is all inferred",
+    "mistakes": "No mistakes, so much as limitations of the model built.",
+    "how_to_fix": "I would work harder to provide it transcript through some of the various mechanisms we described earlier in the problem set.  I would try to obtain tools for the agent that can allow it to analyze the music style, not just the transcript.",
+    "submitted_at_utc": "2026-10-04T06:34:53Z"
+  },
+  "parent": {
+    "profile_id": "parent",
+    "video_path": "data/videos/ad_humble.mp4",
+    "did_well": "correctly identified that this video does not focus on the student's world that they have just entered on move-in weekend.  Parent will buy a product that features pride in their child.  I really like that it made recommendations on how to make the ad more effective for them",
+    "was_bad": "I think if it had more still cuts, transcript and music genre info, the appropriateness score would go down",
+    "mistakes": "NO mistakes noted",
+    "how_to_fix": "same fixes that could be applied for the student would also fix the parent ad-appropriateness.",
+    "submitted_at_utc": "2026-10-04T06:39:44Z"
+  },
+  "farmer": {
+    "profile_id": "farmer",
+    "video_path": "data/videos/ad_humble.mp4",
+    "did_well": "great profile building.  Notes that this farmer has no tie to Yale and has no good reason for purchase.  notes price sensitivity.",
+    "was_bad": "This is a bonus profile not required for the project.",
+    "mistakes": "This is a bonus profile not required for the project.",
+    "how_to_fix": "This is a bonus profile not required for the project.",
+    "submitted_at_utc": "2026-10-04T06:42:11Z"
+  },
+  "beijing_family": {
+    "profile_id": "beijing_family",
+    "video_path": "data/videos/ad_humble.mp4",
+    "did_well": "This is a bonus profile not required for the project.",
+    "was_bad": "This is a bonus profile not required for the project.",
+    "mistakes": "This is a bonus profile not required for the project.",
+    "how_to_fix": "This is a bonus profile not required for the project.",
+    "submitted_at_utc": "2026-10-04T06:42:43Z"
+  },
+  "urban_20": {
+    "profile_id": "urban_20",
+    "video_path": "data/videos/ad_humble.mp4",
+    "did_well": "This is a bonus profile not required for the project.",
+    "was_bad": "This is a bonus profile not required for the project.",
+    "mistakes": "This is a bonus profile not required for the project.",
+    "how_to_fix": "This is a bonus profile not required for the project.",
+    "submitted_at_utc": "2026-10-04T06:43:20Z"
+  }
+}

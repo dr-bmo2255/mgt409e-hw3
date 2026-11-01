@@ -1,0 +1,5115 @@
+{
+  "generated_at_utc": "2026-10-04T03:42:54Z",
+  "model": "gpt-5.6-luna",
+  "product_count": 102,
+  "entries": [
+    {
+      "name": "2025 Yale vs. Harvard T-Shirt",
+      "description": "Gray short-sleeve T-shirt featuring a centered vintage-style rivalry graphic with “2025” above large “THE GAME” lettering, Harvard and Yale helmeted mascots, and red-and-blue accents.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [
+        "red",
+        "white",
+        "blue"
+      ],
+      "print_colors": [
+        "white",
+        "black",
+        "red",
+        "blue",
+        "gray"
+      ],
+      "printed_text": [
+        "2025",
+        "THE GAME"
+      ],
+      "graphic_elements": [
+        "Harvard H mascot helmet",
+        "Yale Y mascot helmet",
+        "crest",
+        "horizontal red and blue stripes"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "vintage varsity rivalry graphic with large outlined block lettering",
+      "affiliation_type": "event_or_rivalry",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": "Yale vs Harvard 2025",
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "large THE GAME chest graphic",
+        "Harvard and Yale helmeted mascot figures",
+        "red-and-blue rivalry color scheme"
+      ],
+      "product_id": "2025-yale-vs-harvard-t-shirt",
+      "image_file": "data/products/2025-yale-vs-harvard-t-shirt.jpg",
+      "image_sha256": "db3cc238a0202e2cdb47c85e0fb0a25874361a0178195096b6c86f13751200d2",
+      "garment_category": "tee",
+      "search_terms": [
+        "2025",
+        "blue",
+        "crest",
+        "game",
+        "harvard",
+        "helmet",
+        "horizontal",
+        "mascot",
+        "red",
+        "shirt",
+        "stripes",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:45Z"
+    },
+    {
+      "name": "Yale Baseball Left-Chest Crewneck",
+      "description": "A navy long-sleeve crewneck sweatshirt with a small white “YALE BASEBALL” design on the left chest. The ribbed collar, cuffs, and waistband are also navy.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked white collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "baseball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "left-chest Yale Baseball lettering",
+        "navy ribbed crewneck construction",
+        "long sleeves with ribbed cuffs"
+      ],
+      "product_id": "baseball-left-chest-crewneck",
+      "image_file": "data/products/baseball-left-chest-crewneck.jpg",
+      "image_sha256": "6d45656c13874e4964c05c8d29455810db200e8adf289f73a036b5ab1b7beb1b",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "baseball",
+        "chest",
+        "company",
+        "crewneck",
+        "left",
+        "port",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:44Z"
+    },
+    {
+      "name": "Basic Big Yale Hoodie",
+      "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "solid dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large white block serif lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "large centered YALE lettering",
+        "front kangaroo pocket",
+        "pullover hooded construction"
+      ],
+      "product_id": "basic-hoodie-big-yale",
+      "image_file": "data/products/basic-hoodie-big-yale.jpg",
+      "image_sha256": "be0ceb1f1963983a92ea5874d694c6b892dde055492755cf3de234045a1ee83b",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "basic",
+        "big",
+        "hoodie",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:43Z"
+    },
+    {
+      "name": "Benjamin Franklin 1/4-Zip Pullover",
+      "description": "Heather gray long-sleeve quarter-zip pullover with a small Benjamin Franklin College shield crest and college name on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "blue",
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "quartered shield crest with crossed symbols and a fleur-de-lis"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered collegiate crest with compact uppercase serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Benjamin Franklin",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "Benjamin Franklin College shield crest",
+        "rib-knit cuffs and hem"
+      ],
+      "product_id": "benjamin-franklin-1-4-zip",
+      "image_file": "data/products/benjamin-franklin-1-4-zip.jpg",
+      "image_sha256": "8d1cf00a5b0ae8a819f03422bcf7a30b0d91f194fc9ce035f598adfde0ec61ac",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "benjamin",
+        "college",
+        "crest",
+        "crossed",
+        "de",
+        "fleur",
+        "franklin",
+        "lis",
+        "quartered",
+        "shield",
+        "symbols",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:44Z"
+    },
+    {
+      "name": "Benjamin Franklin Fleece Jacket",
+      "description": "Heather gray full-zip fleece jacket with a stand collar, dark gray zipper and pocket trim, and a small Benjamin Franklin crest at the left chest. The crest is accompanied by the visible text “BENJAMIN FRANKLIN.”",
+      "garment_type": "full_zip_hoodie",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [
+        "dark gray"
+      ],
+      "print_colors": [
+        "blue",
+        "red",
+        "white",
+        "dark gray"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN"
+      ],
+      "graphic_elements": [
+        "quartered shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered-style residential college crest with uppercase text",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Benjamin Franklin",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full front zip",
+        "stand collar",
+        "dark gray-trimmed zippered hand pockets"
+      ],
+      "product_id": "benjamin-franklin-fleece-jacket",
+      "image_file": "data/products/benjamin-franklin-fleece-jacket.jpg",
+      "image_sha256": "37d783f9b1b4bc21d3bc7265d22f1aff3ac838e8bb133dced5f69e3445f881fc",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "benjamin",
+        "crest",
+        "fleece",
+        "franklin",
+        "jacket",
+        "quartered",
+        "shield"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:45Z"
+    },
+    {
+      "name": "Benjamin Franklin T-Shirt",
+      "description": "Heather gray short-sleeve crewneck T-shirt featuring a red and blue quartered shield with white lightning bolts and fleurs-de-lis. Black serif lettering beneath the shield reads “BENJAMIN FRANKLIN” and “COLLEGE.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "blue",
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "BENJAMIN FRANKLIN",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "quartered shield crest",
+        "lightning bolts",
+        "fleurs-de-lis"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "Quartered shield above two centered lines of uppercase serif lettering.",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Benjamin Franklin",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Red and blue quartered shield with white heraldic motifs",
+        "Two-line Benjamin Franklin College lettering",
+        "Heather gray crewneck body"
+      ],
+      "product_id": "benjamin-franklin-t-shirt",
+      "image_file": "data/products/benjamin-franklin-t-shirt.jpg",
+      "image_sha256": "45556256e128e01ef10edaf8be4522995159d5c71d1529faa1f3c774f3abe2bc",
+      "garment_category": "tee",
+      "search_terms": [
+        "benjamin",
+        "bolts",
+        "college",
+        "crest",
+        "de",
+        "fleurs",
+        "franklin",
+        "lightning",
+        "lis",
+        "quartered",
+        "shield",
+        "shirt"
+      ],
+      "described_by_model": "gpt-6-astra",
+      "described_at_utc": "2026-10-04T03:28:03Z"
+    },
+    {
+      "name": "Berkeley Quarter-Zip Pullover",
+      "description": "Heather gray long-sleeve quarter-zip pullover with a stand collar and ribbed cuffs and hem. A small red-and-white shield crest sits on the left chest above the word \"BERKELEY.\"",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "gray",
+      "color_detail": "light heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "BERKELEY"
+      ],
+      "graphic_elements": [
+        "shield crest with a white chevron and small white crosses"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small shield crest above uppercase serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Berkeley",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Red-and-white Berkeley shield on left chest",
+        "Stand collar with quarter-length zipper",
+        "Ribbed cuffs and hem"
+      ],
+      "product_id": "berkeley-1-4-zip",
+      "image_file": "data/products/berkeley-1-4-zip.jpg",
+      "image_sha256": "19edb6441c3a26157c46b4768f7a66fcd64c1d4b105b0dcd1428c3317949f687",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "berkeley",
+        "chevron",
+        "crest",
+        "crosses",
+        "shield",
+        "small",
+        "white",
+        "zip"
+      ],
+      "described_by_model": "gpt-6-astra",
+      "described_at_utc": "2026-10-04T03:28:02Z"
+    },
+    {
+      "name": "Berkeley Sweater Fleece Jacket",
+      "description": "Heather gray sweater-fleece jacket with a full front zipper, stand collar, and two vertical front pockets. A red shield crest with a white chevron and small white crosses appears on the left chest above the word “BERKELEY.”",
+      "garment_type": "jacket",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "gray",
+      "color_detail": "light heather gray",
+      "secondary_colors": [
+        "dark gray"
+      ],
+      "print_colors": [
+        "red",
+        "white",
+        "dark gray"
+      ],
+      "printed_text": [
+        "BERKELEY"
+      ],
+      "graphic_elements": [
+        "shield crest with a chevron and small crosses"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "Small embroidered shield crest with uppercase lettering beneath",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Berkeley",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heathered sweater-fleece texture",
+        "Red and white Berkeley shield on left chest",
+        "Stand collar and dark gray zipper and edge trim"
+      ],
+      "product_id": "berkeley-sweater-fleece-jacket",
+      "image_file": "data/products/berkeley-sweater-fleece-jacket.jpg",
+      "image_sha256": "a8b31a3de2458bc9d60d0b20eeb91bf3cd9f0a757fe223964244e7d7dcd2316a",
+      "garment_category": "jacket",
+      "search_terms": [
+        "berkeley",
+        "chevron",
+        "crest",
+        "crosses",
+        "fleece",
+        "jacket",
+        "shield",
+        "small",
+        "sweater"
+      ],
+      "described_by_model": "gpt-6-astra",
+      "described_at_utc": "2026-10-04T03:28:05Z"
+    },
+    {
+      "name": "Big Yale Tri-Blend T-Shirt",
+      "description": "Short-sleeve tri-blend T-shirt in a heathered salmon pink, featuring large white arched block-serif “YALE” lettering centered across the chest. A small tonal maker mark is visible near the lower right hem.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "pink",
+      "color_detail": "heathered salmon pink",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched block serif lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "heathered tri-blend fabric",
+        "large arched white YALE chest graphic",
+        "small tonal maker mark near lower right hem"
+      ],
+      "product_id": "big-yale-tri-blend-t-shirt",
+      "image_file": "data/products/big-yale-tri-blend-t-shirt.jpg",
+      "image_sha256": "a19df37693b6e2fc88954a6a42d9fd167e9befb8cc8e5d76912054779b0adc04",
+      "garment_category": "tee",
+      "search_terms": [
+        "big",
+        "blend",
+        "shirt",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:44Z"
+    },
+    {
+      "name": "Boola Boola T-Shirt",
+      "description": "A navy short-sleeve T-shirt featuring a large distressed white “BOOLA BOOLA” graphic centered on the chest in rounded bubble lettering.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "BOOLA BOOLA"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "distressed rounded bubble lettering with an outlined effect",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Large centered BOOLA BOOLA chest graphic",
+        "Distressed white print",
+        "Rounded bubble-letter design"
+      ],
+      "product_id": "boola-boola-t-shirt",
+      "image_file": "data/products/boola-boola-t-shirt.jpg",
+      "image_sha256": "8c4bf4f88a6ed55ef600f9b1c4f68bc411892377d217c0b98498d6a9613537a4",
+      "garment_category": "tee",
+      "search_terms": [
+        "boola",
+        "shirt"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:44Z"
+    },
+    {
+      "name": "Branford 1/4-Zip Pullover",
+      "description": "Heather gray long-sleeve quarter-zip pullover with a raised collar and ribbed cuffs and hem. A Branford residential college shield crest with “BRANFORD” beneath it is embroidered on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "green",
+        "yellow",
+        "blue",
+        "white",
+        "gray"
+      ],
+      "printed_text": [
+        "BRANFORD"
+      ],
+      "graphic_elements": [
+        "Branford residential college shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered heraldic shield crest with block label",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Branford",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "quarter-zip mock neck",
+        "Branford shield crest on left chest",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "branford-1-4-zip",
+      "image_file": "data/products/branford-1-4-zip.jpg",
+      "image_sha256": "a16c96a9c19024598048301e80207b4b9942f76264579589f7f6d47b7e2f4051",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "branford",
+        "college",
+        "crest",
+        "residential",
+        "shield",
+        "sport",
+        "tek",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:46Z"
+    },
+    {
+      "name": "Brooks Brothers Yale Bomber Jacket",
+      "description": "A dark navy bomber jacket with a full front zip, stand collar, ribbed cuffs and hem, and two angled flap pockets. White “YALE” lettering is embroidered on the left chest.",
+      "garment_type": "jacket",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered block lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Brooks Brothers",
+      "distinguishing_features": [
+        "full front zip with stand collar",
+        "ribbed cuffs and hem",
+        "angled flap pockets with button closures"
+      ],
+      "product_id": "brooks-brothers-bomber-jacket-yale",
+      "image_file": "data/products/brooks-brothers-bomber-jacket-yale.jpg",
+      "image_sha256": "1211c0bb0396a8d2fdce7e9a8e92c9ba7aff2d1f27b4ee07932d31720c79ce75",
+      "garment_category": "jacket",
+      "search_terms": [
+        "bomber",
+        "brooks",
+        "brothers",
+        "jacket",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:46Z"
+    },
+    {
+      "name": "Brooks Brothers Double-Knit Yale Full-Zip Hoodie",
+      "description": "A navy double-knit full-zip hoodie with a drawstring hood, front pouch pockets, ribbed cuffs and hem, and white block “YALE” lettering on the left chest.",
+      "garment_type": "full_zip_hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "white block serif lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Brooks Brothers",
+      "distinguishing_features": [
+        "double-knit construction",
+        "full front zip with drawstring hood",
+        "white Yale lettering on the left chest"
+      ],
+      "product_id": "brooks-brothers-double-knit-full-zip-hoodie-yale",
+      "image_file": "data/products/brooks-brothers-double-knit-full-zip-hoodie-yale.jpg",
+      "image_sha256": "8fd981e3cb7ff0346ff3e0e2c0b51545329860dd6815ac59d4333d11e099e0f0",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "brooks",
+        "brothers",
+        "double",
+        "full",
+        "hoodie",
+        "knit",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:47Z"
+    },
+    {
+      "name": "Champion Full-Zip Hood Yale Hoodie",
+      "description": "A heather charcoal gray full-zip hooded sweatshirt with long sleeves, drawstrings, a front kangaroo pocket, and large arched YALE lettering across the chest. The lettering is cream with a navy outline, and a small Champion logo patch is visible on the lower sleeve.",
+      "garment_type": "full_zip_hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "full_zip",
+      "primary_color": "gray",
+      "color_detail": "heather charcoal gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "cream",
+        "navy"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched collegiate block serif lettering with navy outline",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Champion",
+      "distinguishing_features": [
+        "Full front zipper and drawstring hood",
+        "Large cream-and-navy arched YALE chest lettering",
+        "Champion logo patch on the lower sleeve"
+      ],
+      "product_id": "champion-full-zip-hood",
+      "image_file": "data/products/champion-full-zip-hood.jpg",
+      "image_sha256": "1d440e422153b4992a68769c3a5ee58d1a5f3cabba0105ae72910d692102fd6f",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "champion",
+        "full",
+        "hood",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:46Z"
+    },
+    {
+      "name": "Champion Men's Triumph Raglan Crew",
+      "description": "A dark heather gray long-sleeve raglan crewneck sweatshirt with a white arched YALE wordmark and “EST. 1701” beneath it. A small Champion logo patch is visible near the lower sleeve cuff.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "dark heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "EST. 1701"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched collegiate block lettering with small centered founding-year line",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Champion",
+      "distinguishing_features": [
+        "raglan sleeves",
+        "white arched YALE graphic with “EST. 1701”",
+        "small Champion logo patch near the lower sleeve cuff"
+      ],
+      "product_id": "champion-mens-triumph-raglan-crew",
+      "image_file": "data/products/champion-mens-triumph-raglan-crew.jpg",
+      "image_sha256": "a98352a3809dfe0d277a298846c5c288961d41dac5e7ec100a6b168da3ea8935",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "1701",
+        "champion",
+        "crew",
+        "mens",
+        "raglan",
+        "triumph",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:47Z"
+    },
+    {
+      "name": "Champion Reverse Weave Yale Crewneck",
+      "description": "Light gray Champion Reverse Weave crewneck sweatshirt with long sleeves, ribbed cuffs and waistband, and large arched navy “YALE” lettering across the center chest. A small Champion logo patch is visible near the lower cuff.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "light heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched collegiate block serif lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Champion",
+      "distinguishing_features": [
+        "Reverse Weave construction indicated by the slug",
+        "Large arched navy YALE lettering",
+        "Champion logo patch near the lower cuff"
+      ],
+      "product_id": "champion-reverse-weave-crewneck",
+      "image_file": "data/products/champion-reverse-weave-crewneck.jpg",
+      "image_sha256": "224fa2f73ab3f83f735029500261b3f789594d34893e2d53145c104e37958cf4",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "champion",
+        "crewneck",
+        "reverse",
+        "weave",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:47Z"
+    },
+    {
+      "name": "Champion Yale Reverse Weave Hoodie",
+      "description": "Navy pullover hoodie with a drawstring hood, kangaroo pocket, ribbed cuffs and hem, and large arched white “YALE” lettering across the chest. A small Champion logo is visible near the lower sleeve cuff.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched collegiate block lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Champion",
+      "distinguishing_features": [
+        "Reverse Weave construction indicated by the product name",
+        "Large arched white YALE chest lettering",
+        "Kangaroo pocket and Champion sleeve logo"
+      ],
+      "product_id": "champion-reverse-weave-hoodie-1",
+      "image_file": "data/products/champion-reverse-weave-hoodie-1.jpg",
+      "image_sha256": "5267904d276d4572ed29e7d7f90404e1bcaab7eab813a1a624a9a96b9535478f",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "champion",
+        "hoodie",
+        "reverse",
+        "weave",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:47Z"
+    },
+    {
+      "name": "Yale Crew Hoodie",
+      "description": "A navy pullover hoodie with a drawstring hood, long sleeves, and a front kangaroo pocket. White left-chest lettering reads “YALE” above “CREW.”",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "CREW"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked bold collegiate serif lettering",
+      "affiliation_type": "sport",
+      "sport": "crew",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "left-chest Yale Crew print",
+        "drawstring hood",
+        "front kangaroo pocket"
+      ],
+      "product_id": "crew-left-chest-hoodie",
+      "image_file": "data/products/crew-left-chest-hoodie.jpg",
+      "image_sha256": "59881bda9a618ac5ceecae3f3df6d6acd172609ae9af9ce91dd6a95defe3b75d",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "crew",
+        "hoodie",
+        "left",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:48Z"
+    },
+    {
+      "name": "Davenport College Crewneck",
+      "description": "Heather gray crewneck sweatshirt with a small black-and-white Davenport College shield crest and the word “DAVENPORT” beneath it on the left chest.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "DAVENPORT"
+      ],
+      "graphic_elements": [
+        "Davenport College shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small heraldic shield crest with serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Davenport",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "small left-chest Davenport shield crest",
+        "ribbed crew neckline, cuffs, and waistband",
+        "heather gray fleece-style sweatshirt"
+      ],
+      "product_id": "davenport-college-crewneck",
+      "image_file": "data/products/davenport-college-crewneck.jpg",
+      "image_sha256": "7084f87d465754b6831e3a9099a48131a28593cd47cd930d65c7fb27b899d0b1",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "company",
+        "crest",
+        "crewneck",
+        "davenport",
+        "port",
+        "shield"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:48Z"
+    },
+    {
+      "name": "District Tri-Blend T-Shirt – Vintage Shield",
+      "description": "Heather gray short-sleeve T-shirt featuring a large navy Yale shield with a white outlined block “Y” centered on the chest. A small “TM” mark appears beneath the shield.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "Y",
+        "TM"
+      ],
+      "graphic_elements": [
+        "Yale shield crest"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large outlined collegiate shield with block serif letter",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "District",
+      "distinguishing_features": [
+        "vintage-style Yale shield crest",
+        "heather gray tri-blend fabric appearance",
+        "small TM mark below the crest"
+      ],
+      "product_id": "district-tri-blend-t-shirt-vintage-shield",
+      "image_file": "data/products/district-tri-blend-t-shirt-vintage-shield.jpg",
+      "image_sha256": "9ef156841ab40c7a9a5fad9b9cabbc06696ac9587499f1e437f28dbcd463119f",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "crest",
+        "district",
+        "shield",
+        "shirt",
+        "tm",
+        "tri",
+        "vintage",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:49Z"
+    },
+    {
+      "name": "Yale Vintage Bulldog Crewneck Sweatshirt",
+      "description": "A dark heather gray crewneck sweatshirt with long sleeves, featuring large white “YALE” lettering above a white vintage-style bulldog illustration on the front.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "dark heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [
+        "vintage bulldog illustration"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block lettering with a vintage bulldog graphic",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "District",
+      "distinguishing_features": [
+        "large white YALE chest lettering",
+        "vintage-style bulldog graphic",
+        "rib-knit crewneck, cuffs, and waistband"
+      ],
+      "product_id": "district-vit-crewneck-vintage-bulldog",
+      "image_file": "data/products/district-vit-crewneck-vintage-bulldog.jpg",
+      "image_sha256": "a9ec74dc2f355ce67a183d7d5616b3807953be67c16637e8fc6a83228422fbbb",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "bulldog",
+        "crewneck",
+        "district",
+        "illustration",
+        "vintage",
+        "vit",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:49Z"
+    },
+    {
+      "name": "District Vintage Standing Bulldog Crewneck Sweatshirt",
+      "description": "A heather charcoal gray crewneck sweatshirt with long sleeves and ribbed cuffs and hem. The front features a white-and-navy standing bulldog graphic with a large navy “Y” on its sweater and vertical navy “YALE” lettering beside it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather charcoal gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "navy"
+      ],
+      "printed_text": [
+        "Y",
+        "YALE"
+      ],
+      "graphic_elements": [
+        "standing bulldog"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "vintage mascot illustration with vertical block lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "District",
+      "distinguishing_features": [
+        "standing bulldog mascot graphic",
+        "large block Y on the bulldog’s sweater",
+        "vertical YALE lettering"
+      ],
+      "product_id": "district-vit-crewneck-vintage-standing-bulldog",
+      "image_file": "data/products/district-vit-crewneck-vintage-standing-bulldog.jpg",
+      "image_sha256": "ae3255e540539abd285169f88903c56b7b0e392a462b3d2e7ef0ff3837510469",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "bulldog",
+        "crewneck",
+        "district",
+        "standing",
+        "vintage",
+        "vit",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:49Z"
+    },
+    {
+      "name": "District Vintage Bulldog Hoodie",
+      "description": "A dark heather gray pullover hoodie with long sleeves, a kangaroo pocket, and a white Yale wordmark above a white bulldog graphic on the front.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "dark heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [
+        "bulldog"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "bold collegiate serif wordmark with vintage bulldog illustration",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "District",
+      "distinguishing_features": [
+        "white Yale wordmark",
+        "vintage-style bulldog graphic",
+        "kangaroo pocket"
+      ],
+      "product_id": "district-vit-hoodie-vintage-bulldog",
+      "image_file": "data/products/district-vit-hoodie-vintage-bulldog.jpg",
+      "image_sha256": "10dad4d91706d70695829011f243090bc173b1ed2f8e16d98c44b1f6a7ffe9fe",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "bulldog",
+        "district",
+        "hoodie",
+        "vintage",
+        "vit",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:49Z"
+    },
+    {
+      "name": "District Vintage Sailor Bulldog Hoodie",
+      "description": "A dark heather gray pullover hoodie with a white arched YALE wordmark and a white bulldog graphic wearing a sailor hat on the center chest.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "dark heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [
+        "bulldog wearing a sailor hat"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "arched collegiate block lettering above a vintage illustrated mascot graphic",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "District",
+      "distinguishing_features": [
+        "Vintage sailor-themed bulldog illustration",
+        "Arched white YALE lettering",
+        "Kangaroo pocket and ribbed cuffs and hem"
+      ],
+      "product_id": "district-vit-hoodie-vintage-sailor-bulldog",
+      "image_file": "data/products/district-vit-hoodie-vintage-sailor-bulldog.jpg",
+      "image_sha256": "2e35183e3d71799227639be412586803f11a664f18b2559537656c0976d30bc7",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "bulldog",
+        "district",
+        "hat",
+        "hoodie",
+        "sailor",
+        "vintage",
+        "vit",
+        "wearing",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:50Z"
+    },
+    {
+      "name": "Yale Diving Crewneck",
+      "description": "A navy crewneck sweatshirt with long sleeves and ribbed cuffs and hem. The left chest features white stacked lettering reading “YALE” above “DIVING.”",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "diving",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Left-chest Yale Diving print",
+        "Dark navy sweatshirt body",
+        "Ribbed crewneck, cuffs, and hem"
+      ],
+      "product_id": "diving-left-chest-crewneck",
+      "image_file": "data/products/diving-left-chest-crewneck.jpg",
+      "image_sha256": "e138b2141c3958cd1dea9ba7a535d1be7e74b1030577cf8e62ddd9eb30b741de",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "crewneck",
+        "diving",
+        "left",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:50Z"
+    },
+    {
+      "name": "Yale Divinity School Fleece Sweater",
+      "description": "A navy heather full-zip fleece jacket with a stand collar and long sleeves. The left chest features “Yale DIVINITY SCHOOL” above a red shield crest.",
+      "garment_type": "fleece_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "heather navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "red"
+      ],
+      "printed_text": [
+        "Yale DIVINITY SCHOOL"
+      ],
+      "graphic_elements": [
+        "shield crest with a white cross and open book"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small collegiate serif lettering with an embroidered shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "Divinity School",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full front zipper",
+        "stand collar",
+        "left-chest Divinity School crest"
+      ],
+      "product_id": "divinity-school-fleece-sweater",
+      "image_file": "data/products/divinity-school-fleece-sweater.jpg",
+      "image_sha256": "78cc425d838c3ec764286dacf1f8f4ba6a86ce54e7c2662fc40e813f3c60a3f7",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "book",
+        "crest",
+        "cross",
+        "divinity",
+        "fleece",
+        "open",
+        "school",
+        "shield",
+        "sweater",
+        "white",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:51Z"
+    },
+    {
+      "name": "Yale Dry-Zone Long-Sleeve Tee",
+      "description": "Navy long-sleeve pullover tee featuring large white “YALE” lettering with smaller white “BULLDOGS” text centered on the chest.",
+      "garment_type": "long_sleeve_tee",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "BULLDOGS"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "bold block serif lettering with smaller centered text beneath",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "long raglan-style sleeves",
+        "large centered YALE chest lettering",
+        "smaller BULLDOGS line beneath"
+      ],
+      "product_id": "dry-zone-long-sleeve",
+      "image_file": "data/products/dry-zone-long-sleeve.jpg",
+      "image_sha256": "d47257c660a8c23519d852569e93cc0a664aee97d3edef0e23ec9633478dd40b",
+      "garment_category": "tee",
+      "search_terms": [
+        "bulldogs",
+        "dry",
+        "long",
+        "sleeve",
+        "sport",
+        "tek",
+        "yale",
+        "zone"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:51Z"
+    },
+    {
+      "name": "Yale Fencing Hoodie",
+      "description": "A navy pullover hoodie with a drawstring hood and front kangaroo pocket. White left-chest lettering reads “YALE” with “FENCING” beneath it.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "FENCING"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "bold collegiate serif lettering with smaller block text beneath",
+      "affiliation_type": "sport",
+      "sport": "fencing",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "white left-chest Yale Fencing lettering",
+        "drawstring hood",
+        "front kangaroo pocket"
+      ],
+      "product_id": "fencing-left-chest-hoodie",
+      "image_file": "data/products/fencing-left-chest-hoodie.jpg",
+      "image_sha256": "7c73197a658f4c3846f60eb1bf8be877a328c73d8ff6b3e1dcd8533224f6ad97",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "fencing",
+        "hoodie",
+        "left",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:53Z"
+    },
+    {
+      "name": "Yale Football Left-Chest T-Shirt",
+      "description": "A navy short-sleeve T-shirt featuring a small white left-chest print reading “YALE” above “FOOTBALL.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "FOOTBALL"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked bold serif lettering",
+      "affiliation_type": "sport",
+      "sport": "football",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "small left-chest Yale Football print",
+        "dark navy body",
+        "short-sleeve crew neck"
+      ],
+      "product_id": "football-left-chest-t-shirt",
+      "image_file": "data/products/football-left-chest-t-shirt.jpg",
+      "image_sha256": "f456e213f3d19f14a711f7c4907f60c966ba9986690fa3a553fd36b79d2f0838",
+      "garment_category": "tee",
+      "search_terms": [
+        "chest",
+        "football",
+        "left",
+        "shirt",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:51Z"
+    },
+    {
+      "name": "Grace Hopper College Crewneck",
+      "description": "A navy crewneck sweatshirt with long sleeves, ribbed cuffs and hem, and a small embroidered-style Grace Hopper College crest on the left chest. The crest includes a multicolour shield and the text “GRACE HOPPER.”",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "yellow",
+        "blue",
+        "black"
+      ],
+      "printed_text": [
+        "GRACE HOPPER"
+      ],
+      "graphic_elements": [
+        "Grace Hopper College crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small multicolour crest with compact uppercase lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Grace Hopper",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "small left-chest Grace Hopper crest",
+        "ribbed crew neckline, cuffs, and hem",
+        "dark navy sweatshirt body"
+      ],
+      "product_id": "grace-hopper-college-crewneck",
+      "image_file": "data/products/grace-hopper-college-crewneck.jpg",
+      "image_sha256": "5524199393d67ee215e2c031d0cec77a4d7fa4051c944a3e79fc4fcdcf77e456",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "company",
+        "crest",
+        "crewneck",
+        "grace",
+        "hopper",
+        "port"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:17Z"
+    },
+    {
+      "name": "Grace Hopper College Logo T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt featuring a centered blue shield crest with a yellow seahorse-like emblem and white decorative marks, above the text “GRACE HOPPER COLLEGE.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "blue",
+        "yellow",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "GRACE HOPPER",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "blue shield crest",
+        "yellow seahorse-like emblem",
+        "white dots and vertical marks",
+        "black scalloped crown border"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "centered collegiate crest with black serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Grace Hopper",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Grace Hopper College crest",
+        "yellow seahorse-like emblem on a blue shield",
+        "two-line black serif college name"
+      ],
+      "product_id": "grace-hopper-logo-t-shirt",
+      "image_file": "data/products/grace-hopper-logo-t-shirt.jpg",
+      "image_sha256": "b7ec837ad6b4293c7d39655277101d361ae60f38576825c67837dd787b3de7da",
+      "garment_category": "tee",
+      "search_terms": [
+        "black",
+        "blue",
+        "border",
+        "college",
+        "crest",
+        "crown",
+        "dots",
+        "emblem",
+        "grace",
+        "hopper",
+        "like",
+        "logo",
+        "marks",
+        "scalloped",
+        "seahorse",
+        "shield",
+        "shirt",
+        "vertical",
+        "white",
+        "yellow"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:52Z"
+    },
+    {
+      "name": "Yale Offside Crewneck",
+      "description": "A navy crewneck sweatshirt with long sleeves, ribbed cuffs and waistband, and large white “YALE.” lettering across the center chest. A small Hype and Vice mark is visible near the lower portion of the right sleeve.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE."
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large varsity-style block serif lettering with a distressed texture",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Hype and Vice",
+      "distinguishing_features": [
+        "large distressed white YALE. chest lettering",
+        "small Hype and Vice mark on the right sleeve",
+        "ribbed crewneck, cuffs, and waistband"
+      ],
+      "product_id": "hype-and-vice-yale-university-offside-crewneck",
+      "image_file": "data/products/hype-and-vice-yale-university-offside-crewneck.jpg",
+      "image_sha256": "d5dba19d491338139955166e2712333532f64f42f0eb81fefd251aac473cca7d",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crewneck",
+        "hype",
+        "offside",
+        "university",
+        "vice",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:52Z"
+    },
+    {
+      "name": "Hype & Vice Yale University Premium Crewneck",
+      "description": "White long-sleeve crewneck sweatshirt with navy ribbed trim at the collar, cuffs, and hem. The center-front design features arched collegiate “YALE” lettering, “Est. 1701,” “UNIVERSITY,” and a Yale shield crest with laurel branches; a small Hype & Vice mark appears on the sleeve.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "white",
+      "color_detail": "white",
+      "secondary_colors": [
+        "navy"
+      ],
+      "print_colors": [
+        "navy",
+        "gray",
+        "blue",
+        "gold",
+        "green"
+      ],
+      "printed_text": [
+        "Est. 1701",
+        "YALE",
+        "UNIVERSITY",
+        "LUX ET VERITAS"
+      ],
+      "graphic_elements": [
+        "Yale shield crest",
+        "laurel branches"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "collegiate block serif lettering with a centered heraldic crest",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Hype and Vice",
+      "distinguishing_features": [
+        "Navy contrast ribbing at the collar, cuffs, and hem",
+        "Yale shield crest framed by laurel branches",
+        "Small Hype & Vice sleeve mark"
+      ],
+      "product_id": "hype-and-vice-yale-university-premium-crewneck",
+      "image_file": "data/products/hype-and-vice-yale-university-premium-crewneck.jpg",
+      "image_sha256": "c358515c22c680092eff13a2634b18b93a9ad6e1f8888b9fbded4e0dbb96af3a",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "1701",
+        "branches",
+        "crest",
+        "crewneck",
+        "et",
+        "hype",
+        "laurel",
+        "lux",
+        "premium",
+        "shield",
+        "university",
+        "veritas",
+        "vice",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:54Z"
+    },
+    {
+      "name": "Yale Ice Hockey Left-Chest Hoodie",
+      "description": "Navy pullover hoodie with a drawstring hood and front kangaroo pocket. A small white left-chest design reads “YALE” above “HOCKEY.”",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "small stacked collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "ice hockey",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "left-chest Yale Hockey lettering",
+        "drawstring hood",
+        "front kangaroo pocket"
+      ],
+      "product_id": "ice-hockey-left-chest-hoodie",
+      "image_file": "data/products/ice-hockey-left-chest-hoodie.jpg",
+      "image_sha256": "55737b1608bece1a44539d7ad389d8694734406a56e96af5e430533ec74d3808",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "hockey",
+        "hoodie",
+        "ice",
+        "left",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:55Z"
+    },
+    {
+      "name": "Jonathan Edwards College Crewneck",
+      "description": "Heather gray crewneck sweatshirt with a small embroidered Jonathan Edwards College shield crest and the words “JONATHAN EDWARDS” beneath it on the left chest.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "green",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "JONATHAN EDWARDS"
+      ],
+      "graphic_elements": [
+        "Jonathan Edwards College shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered shield crest with small uppercase serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Jonathan Edwards",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Small left-chest college crest",
+        "Ribbed crew neckline, cuffs, and waistband",
+        "Heather gray sweatshirt body"
+      ],
+      "product_id": "jonathan-edwards-college-crewneck",
+      "image_file": "data/products/jonathan-edwards-college-crewneck.jpg",
+      "image_sha256": "a25792bab1bf521e8920c18d3d89673fcb8e5a2c75c95a47f03a731cd15a750f",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "company",
+        "crest",
+        "crewneck",
+        "edwards",
+        "jonathan",
+        "port",
+        "shield"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:54Z"
+    },
+    {
+      "name": "Yale Lacrosse Left-Chest Crewneck",
+      "description": "Navy crewneck sweatshirt with long sleeves and rib-knit cuffs and waistband. A small white “YALE” over “LACROSSE” design is printed on the left chest.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "LACROSSE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked white collegiate serif lettering",
+      "affiliation_type": "sport",
+      "sport": "lacrosse",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Left-chest stacked Yale Lacrosse print",
+        "Rib-knit crew neck, cuffs, and waistband",
+        "Long-sleeve navy sweatshirt"
+      ],
+      "product_id": "lacrosse-left-chest-crewneck",
+      "image_file": "data/products/lacrosse-left-chest-crewneck.jpg",
+      "image_sha256": "f1407f94afb91bec19c79fe10ab06f4e2f23fb57ddec11114899f13cfe87eeca",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "company",
+        "crewneck",
+        "lacrosse",
+        "left",
+        "port",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:54Z"
+    },
+    {
+      "name": "Morse 1/4-Zip Pullover",
+      "description": "Heather gray long-sleeve quarter-zip pullover with a small Morse residential college shield crest on the left chest and “MORSE” beneath it.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "black",
+        "red"
+      ],
+      "printed_text": [
+        "MORSE"
+      ],
+      "graphic_elements": [
+        "Morse residential college shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small shield crest with text beneath",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Morse",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "quarter-zip collar",
+        "Morse shield crest on left chest",
+        "rib-knit cuffs and hem"
+      ],
+      "product_id": "morse-1-4-zip",
+      "image_file": "data/products/morse-1-4-zip.jpg",
+      "image_sha256": "62165593087658f0668f1d68a68059c40dd92f54292cebcc558220267ffb3c23",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "crest",
+        "morse",
+        "residential",
+        "shield",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:55Z"
+    },
+    {
+      "name": "Morse College Logo T-Shirt",
+      "description": "Gray short-sleeve T-shirt featuring a centered Morse College shield crest with a red axe and black circular details, above the words “MORSE COLLEGE.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "black",
+        "red"
+      ],
+      "printed_text": [
+        "MORSE",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "Morse College shield crest",
+        "red axe",
+        "three black circular details"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "centered collegiate crest with black serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Morse",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Morse College shield crest",
+        "red axe emblem",
+        "two-line black serif “MORSE COLLEGE” lettering"
+      ],
+      "product_id": "morse-logo-t-shirt",
+      "image_file": "data/products/morse-logo-t-shirt.jpg",
+      "image_sha256": "9abde66415b52e449f5ad35585d4ae80dbe57fc89405855c8f223566133613a4",
+      "garment_category": "tee",
+      "search_terms": [
+        "axe",
+        "black",
+        "circular",
+        "college",
+        "crest",
+        "details",
+        "logo",
+        "morse",
+        "red",
+        "shield",
+        "shirt",
+        "three"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:55Z"
+    },
+    {
+      "name": "Pierson College Crewneck",
+      "description": "A navy crewneck sweatshirt with long sleeves, ribbed cuffs and hem, and a small Pierson College crest on the left chest. The crest is black and yellow with the word “PIERSON” beneath it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "black",
+        "yellow",
+        "white"
+      ],
+      "printed_text": [
+        "PIERSON"
+      ],
+      "graphic_elements": [
+        "Pierson College crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered-style collegiate crest with yellow and black vertical elements",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Pierson",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "small left-chest Pierson crest",
+        "black-and-yellow crest design",
+        "ribbed crewneck, cuffs, and waistband"
+      ],
+      "product_id": "pierson-college-crewneck",
+      "image_file": "data/products/pierson-college-crewneck.jpg",
+      "image_sha256": "7f67a69752025c2b0cdc4f0b3b975f05882ba69fad885b42048cbcd8d3b8f7ad",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "crest",
+        "crewneck",
+        "pierson"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:55Z"
+    },
+    {
+      "name": "Pierson College Logo T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a centered black-and-yellow Pierson College shield crest and the words “PIERSON COLLEGE” beneath it.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "black",
+        "yellow"
+      ],
+      "printed_text": [
+        "PIERSON",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "Pierson College shield crest with three yellow sun motifs and vertical decorative bands"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "centered heraldic crest with black serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Pierson",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Pierson College shield crest",
+        "Three yellow sun motifs",
+        "Two-line serif 'PIERSON COLLEGE' lettering"
+      ],
+      "product_id": "pierson-logo-t-shirt",
+      "image_file": "data/products/pierson-logo-t-shirt.jpg",
+      "image_sha256": "4b9c39ed04f53022c1eef381aee4ad99f8a08aff2e9649a31f87dc46cef01d4b",
+      "garment_category": "tee",
+      "search_terms": [
+        "bands",
+        "college",
+        "crest",
+        "decorative",
+        "logo",
+        "motifs",
+        "pierson",
+        "shield",
+        "shirt",
+        "sun",
+        "three",
+        "vertical",
+        "yellow"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:57Z"
+    },
+    {
+      "name": "Yale Arched Crewneck Sweatshirt",
+      "description": "Cream crewneck sweatshirt with long sleeves and ribbed cuffs and hem. It features a large navy arched “YALE” design centered across the chest, with a small trademark symbol visible to the lower right.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "cream",
+      "color_detail": "cream",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "™"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large arched block serif lettering",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "arched navy YALE lettering",
+        "cream body",
+        "ribbed crewneck, cuffs, and hem"
+      ],
+      "product_id": "poly-twill-crewneck-arched-yale",
+      "image_file": "data/products/poly-twill-crewneck-arched-yale.jpg",
+      "image_sha256": "947e673c242ea58c0e7aaa1d644584736100868fea283d16bb3d59e245646dc8",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "arched",
+        "crewneck",
+        "poly",
+        "twill",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:57Z"
+    },
+    {
+      "name": "Yale Sailing Hoodie",
+      "description": "A navy pullover hoodie with a drawstring hood, kangaroo pocket, and small white left-chest lettering reading “YALE” above “SAILING.”",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SAILING"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked bold block lettering",
+      "affiliation_type": "sport",
+      "sport": "sailing",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "small left-chest Yale Sailing print",
+        "drawstring hood",
+        "front kangaroo pocket"
+      ],
+      "product_id": "sailing-left-chest-hoodie",
+      "image_file": "data/products/sailing-left-chest-hoodie.jpg",
+      "image_sha256": "6701571d8464b1ec49415e5c5ffee1f9dcccf3f9a14f28dc22984561ae4a85a8",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "hoodie",
+        "left",
+        "sailing",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:58Z"
+    },
+    {
+      "name": "Saybrook College Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt featuring a small Saybrook College shield crest and “SAYBROOK” lettering on the left chest.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "solid navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "yellow",
+        "blue",
+        "white"
+      ],
+      "printed_text": [
+        "SAYBROOK"
+      ],
+      "graphic_elements": [
+        "Saybrook College shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered-style collegiate shield crest with uppercase lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Saybrook",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "small left-chest Saybrook shield crest",
+        "rib-knit crew neck, cuffs, and waistband",
+        "solid navy long-sleeve construction"
+      ],
+      "product_id": "saybrook-college-crewneck",
+      "image_file": "data/products/saybrook-college-crewneck.jpg",
+      "image_sha256": "b8e9e8681a456f04db282959383d8d6e8f379ab8292a94d7948ebd2d3061411c",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "company",
+        "crest",
+        "crewneck",
+        "port",
+        "saybrook",
+        "shield"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:58Z"
+    },
+    {
+      "name": "Saybrook College Logo T-Shirt",
+      "description": "Heather gray short-sleeve crew-neck T-shirt featuring a colorful Saybrook College shield crest centered on the chest, with “SAYBROOK” and “COLLEGE” printed below.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "blue",
+        "yellow",
+        "black"
+      ],
+      "printed_text": [
+        "SAYBROOK",
+        "COLLEGE"
+      ],
+      "graphic_elements": [
+        "Saybrook College shield crest"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "centered heraldic crest with black serif lettering",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Saybrook",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Colorful blue-and-yellow heraldic shield",
+        "Saybrook College name in two black serif lines",
+        "Heather gray T-shirt body"
+      ],
+      "product_id": "saybrook-logo-t-shirt",
+      "image_file": "data/products/saybrook-logo-t-shirt.jpg",
+      "image_sha256": "1ffbfe5933b04c4fc388c83794c8f9c066f95cae0c13c0e4ae86b84baab7253f",
+      "garment_category": "tee",
+      "search_terms": [
+        "college",
+        "crest",
+        "logo",
+        "saybrook",
+        "shield",
+        "shirt"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:58Z"
+    },
+    {
+      "name": "Saybrook Sweater Fleece Jacket",
+      "description": "A light heather-gray full-zip sweater fleece jacket with a stand collar, zippered front, and zippered hand pockets. A small multicolor Saybrook shield crest is embroidered on the left chest.",
+      "garment_type": "full_zip_hoodie",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "gray",
+      "color_detail": "light heather gray",
+      "secondary_colors": [
+        "dark gray"
+      ],
+      "print_colors": [
+        "navy",
+        "yellow",
+        "green"
+      ],
+      "printed_text": [
+        "SAYBROOK"
+      ],
+      "graphic_elements": [
+        "Saybrook shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered collegiate shield crest with text beneath",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Saybrook",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full-zip sweater fleece construction",
+        "stand collar and zippered hand pockets",
+        "multicolor Saybrook shield crest on the left chest"
+      ],
+      "product_id": "saybrook-sweater-fleece-jacket",
+      "image_file": "data/products/saybrook-sweater-fleece-jacket.jpg",
+      "image_sha256": "a591c8c70653be55cb3da90cf561c8f813545f3a349dd45106237f3d2987d75c",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crest",
+        "fleece",
+        "jacket",
+        "saybrook",
+        "shield",
+        "sweater"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:59Z"
+    },
+    {
+      "name": "Yale School of Architecture Quarter-Zip Pullover",
+      "description": "A navy long-sleeve pullover with a stand collar, quarter-zip closure, and rib-knit cuffs and hem. The left chest features small “YALE SCHOOL OF ARCHITECTURE” lettering above a Yale School of Architecture shield crest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "solid dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "light blue",
+        "gray"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ARCHITECTURE"
+      ],
+      "graphic_elements": [
+        "Yale School of Architecture shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small uppercase lettering with shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Architecture",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "Yale School of Architecture shield crest",
+        "rib-knit cuffs and hem"
+      ],
+      "product_id": "school-of-architecture-crewneck",
+      "image_file": "data/products/school-of-architecture-crewneck.jpg",
+      "image_sha256": "83cac9c1125499f93e1d9e7ad7cc6fae02b6262de1e4a65b4882cc5e21e5cb12",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "architecture",
+        "crest",
+        "crewneck",
+        "school",
+        "shield",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:59Z"
+    },
+    {
+      "name": "Yale School of Architecture Fleece Sweater",
+      "description": "A navy heather fleece jacket with long sleeves, a stand collar, and a full-length front zipper. The left chest features the Yale School of Architecture name above a shield crest.",
+      "garment_type": "jacket",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "navy heather",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "blue",
+        "black"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ARCHITECTURE"
+      ],
+      "graphic_elements": [
+        "Yale School of Architecture shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small white collegiate lettering above an embroidered shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Architecture",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full-length front zipper",
+        "stand collar",
+        "left-chest shield crest"
+      ],
+      "product_id": "school-of-architecture-fleece-sweater",
+      "image_file": "data/products/school-of-architecture-fleece-sweater.jpg",
+      "image_sha256": "c26815096befa2171a634ede7ffe8f42ef9d1283ee9bda5ff9e9841ed8aae329",
+      "garment_category": "jacket",
+      "search_terms": [
+        "architecture",
+        "crest",
+        "fleece",
+        "school",
+        "shield",
+        "sweater",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:00Z"
+    },
+    {
+      "name": "Yale School of Art Quarter-Zip Pullover",
+      "description": "A navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and an embroidered Yale School of Art crest and lettering on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ART"
+      ],
+      "graphic_elements": [
+        "Yale School of Art shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered uppercase lettering with a multicolor shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Art",
+      "family_member": null,
+      "event": null,
+      "brand": "Russell Athletic",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "embroidered Yale School of Art lettering and multicolor crest",
+        "ribbed cuffs and waistband"
+      ],
+      "product_id": "school-of-art-1-4-zip",
+      "image_file": "data/products/school-of-art-1-4-zip.jpg",
+      "image_sha256": "4d3f844a835368869b7f23c129209afa1463d43e2053a282fa13fe5bb3389de6",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "art",
+        "athletic",
+        "crest",
+        "russell",
+        "school",
+        "shield",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:26:59Z"
+    },
+    {
+      "name": "Yale School of Art Fleece Sweater",
+      "description": "A navy full-zip fleece sweater with a stand collar and long sleeves. The left chest features “Yale SCHOOL OF ART” above a colorful shield crest.",
+      "garment_type": "fleece_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "heathered navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF ART"
+      ],
+      "graphic_elements": [
+        "multicolor shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small serif lettering with a colorful shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Art",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full-length front zipper",
+        "stand collar",
+        "left-chest School of Art crest and lettering"
+      ],
+      "product_id": "school-of-art-fleece-sweater",
+      "image_file": "data/products/school-of-art-fleece-sweater.jpg",
+      "image_sha256": "c4df5242b7aed3eb34c41c3fd99082f41cb63a75cea0126cad967660fc5a4e0d",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "art",
+        "crest",
+        "fleece",
+        "multicolor",
+        "school",
+        "shield",
+        "sweater",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:03Z"
+    },
+    {
+      "name": "Yale School of Engineering 1/4-Zip Pullover",
+      "description": "Navy long-sleeve quarter-zip pullover with embroidered Yale School of Engineering and Applied Science lettering and a shield-style crest on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "gold",
+        "blue"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF ENGINEERING",
+        "AND APPLIED SCIENCE"
+      ],
+      "graphic_elements": [
+        "Yale shield-style crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered uppercase lettering with shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Engineering and Applied Science",
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "left-chest Yale School of Engineering and Applied Science embroidery",
+        "shield-style crest beneath the lettering"
+      ],
+      "product_id": "school-of-engineering-1-4-zip",
+      "image_file": "data/products/school-of-engineering-1-4-zip.jpg",
+      "image_sha256": "c950ff4c418c1b18a88bda81dcd67a7081fc1cd6429f112f7a791b92302be58a",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "applied",
+        "crest",
+        "engineering",
+        "school",
+        "science",
+        "shield",
+        "sport",
+        "style",
+        "tek",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:02Z"
+    },
+    {
+      "name": "Yale School of Management Crest T-Shirt",
+      "description": "Navy short-sleeve crew-neck T-shirt featuring white “Yale SCHOOL OF MANAGEMENT” lettering above a shield crest with light blue and white details.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "light blue"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MANAGEMENT"
+      ],
+      "graphic_elements": [
+        "shield crest with a central diamond, circular dots, and a small building emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "white serif lettering above a collegiate shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Management",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "School of Management lettering and crest",
+        "Shield design with light blue and white details",
+        "Short-sleeve navy crew-neck construction"
+      ],
+      "product_id": "school-of-management-crest-t-shirt",
+      "image_file": "data/products/school-of-management-crest-t-shirt.jpg",
+      "image_sha256": "2f44c6db960ac679ca752fea31a66da72eae3c955db7ec5e438ae4afd4c729ef",
+      "garment_category": "tee",
+      "search_terms": [
+        "building",
+        "central",
+        "circular",
+        "crest",
+        "diamond",
+        "dots",
+        "emblem",
+        "management",
+        "school",
+        "shield",
+        "shirt",
+        "small",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:01Z"
+    },
+    {
+      "name": "Yale School of Medicine 1/4-Zip Pullover",
+      "description": "Navy long-sleeve 1/4-zip pullover with a small Yale School of Medicine wordmark and shield crest embroidered on the left chest. The garment has a stand collar, ribbed cuffs, and a ribbed hem.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "red",
+        "green"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MEDICINE"
+      ],
+      "graphic_elements": [
+        "Yale School of Medicine shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered serif wordmark with shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Medicine",
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "1/4-zip stand collar",
+        "left-chest Yale School of Medicine shield crest",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "school-of-medicine-1-4-zip",
+      "image_file": "data/products/school-of-medicine-1-4-zip.jpg",
+      "image_sha256": "fc673052b7c7261cee8080c59ca6419f8661603598ca2563c1f8188d1e74f9e9",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crest",
+        "medicine",
+        "school",
+        "shield",
+        "sport",
+        "tek",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:02Z"
+    },
+    {
+      "name": "Yale School of Music Fleece Sweater",
+      "description": "A heather navy full-zip fleece jacket with a stand collar, featuring Yale School of Music lettering and a colorful shield crest on the left chest.",
+      "garment_type": "jacket",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "full_zip",
+      "primary_color": "navy",
+      "color_detail": "heather navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "red",
+        "blue",
+        "gold"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF MUSIC"
+      ],
+      "graphic_elements": [
+        "shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small serif lettering with embroidered shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Music",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "full-length front zipper",
+        "stand collar",
+        "Yale School of Music crest at left chest"
+      ],
+      "product_id": "school-of-music-fleece-sweater",
+      "image_file": "data/products/school-of-music-fleece-sweater.jpg",
+      "image_sha256": "a40e68c46f201b268636dde65a72fe87cb317d9446221b23de81fd1a8ae5ec7f",
+      "garment_category": "jacket",
+      "search_terms": [
+        "crest",
+        "fleece",
+        "music",
+        "school",
+        "shield",
+        "sweater",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:02Z"
+    },
+    {
+      "name": "Yale School of Nursing Crest T-Shirt",
+      "description": "Navy short-sleeve T-shirt featuring “YALE SCHOOL OF NURSING” across the chest above a shield crest with a blue upper section, Hebrew lettering, and a white cross-like emblem.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "deep navy",
+      "secondary_colors": [
+        "blue",
+        "black",
+        "white"
+      ],
+      "print_colors": [
+        "white",
+        "blue",
+        "black",
+        "gold"
+      ],
+      "printed_text": [
+        "YALE SCHOOL OF NURSING"
+      ],
+      "graphic_elements": [
+        "shield crest with Hebrew lettering and a white cross-like emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "centered white serif lettering above a collegiate shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Nursing",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "School of Nursing text across the upper chest",
+        "Shield crest with Hebrew lettering",
+        "White cross-like emblem within the crest"
+      ],
+      "product_id": "school-of-nursing-crest-t-shirt",
+      "image_file": "data/products/school-of-nursing-crest-t-shirt.jpg",
+      "image_sha256": "19edb3eb7d9e2f34b4c47c592d5cea57f25313a1898f48845f29989e5f62c387",
+      "garment_category": "tee",
+      "search_terms": [
+        "crest",
+        "cross",
+        "emblem",
+        "hebrew",
+        "lettering",
+        "like",
+        "nursing",
+        "school",
+        "shield",
+        "shirt",
+        "white",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:02Z"
+    },
+    {
+      "name": "Yale School of Public Health 1/4-Zip",
+      "description": "A navy long-sleeve quarter-zip pullover with a standing collar, ribbed cuffs and hem, and a small Yale School of Public Health crest at the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "red",
+        "yellow",
+        "blue"
+      ],
+      "printed_text": [
+        "Yale SCHOOL OF PUBLIC HEALTH"
+      ],
+      "graphic_elements": [
+        "shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small embroidered school name with multicolour shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "School of Public Health",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "left-chest School of Public Health crest",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "school-of-public-health-1-4-zip",
+      "image_file": "data/products/school-of-public-health-1-4-zip.jpg",
+      "image_sha256": "38c379c37cf3cdb819a690207ea996f9f9ae912d56853eeacad626621a45c2f4",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crest",
+        "health",
+        "public",
+        "school",
+        "shield",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:03Z"
+    },
+    {
+      "name": "Yale Soccer Crewneck",
+      "description": "Navy long-sleeve crewneck sweatshirt with white left-chest lettering reading “YALE” above “SOCCER.”",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked white collegiate lettering",
+      "affiliation_type": "sport",
+      "sport": "soccer",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Left-chest Yale Soccer print",
+        "Ribbed crew neckline, cuffs, and waistband",
+        "Long-sleeve pullover sweatshirt"
+      ],
+      "product_id": "soccer-left-chest-crewneck",
+      "image_file": "data/products/soccer-left-chest-crewneck.jpg",
+      "image_sha256": "076bea291b88dee5262a464b9b02499d8aa06c45f558b669fdcde9491230da04",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "company",
+        "crewneck",
+        "left",
+        "port",
+        "soccer",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:04Z"
+    },
+    {
+      "name": "Yale Squash Hoodie",
+      "description": "A navy pullover hoodie with long sleeves, a drawstring hood, and a front kangaroo pocket. White stacked “YALE” and “SQUASH” lettering is printed on the left chest.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SQUASH"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked bold serif lettering",
+      "affiliation_type": "sport",
+      "sport": "squash",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "left-chest stacked Yale Squash print",
+        "front kangaroo pocket",
+        "drawstring hood"
+      ],
+      "product_id": "squash-left-chest-hoodie",
+      "image_file": "data/products/squash-left-chest-hoodie.jpg",
+      "image_sha256": "00b56d73583bc0c2c555dc4e4723477a7a999c9b0cc3645d9124aa0aff020038",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "hoodie",
+        "left",
+        "squash",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:05Z"
+    },
+    {
+      "name": "Yale Squash Left-Chest Crewneck Sweatshirt",
+      "description": "A navy long-sleeve crewneck sweatshirt with a small white Yale Squash design on the left chest.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "SQUASH"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked white collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "squash",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "small left-chest Yale Squash lettering",
+        "ribbed crewneck, cuffs, and hem",
+        "long-sleeve pullover construction"
+      ],
+      "product_id": "squash-left-chest-tennis",
+      "image_file": "data/products/squash-left-chest-tennis.jpg",
+      "image_sha256": "1e6bb04227fd312c64107931e970d05778151e4d505e571aa7d539a993a5742d",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "company",
+        "left",
+        "port",
+        "squash",
+        "tennis",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:04Z"
+    },
+    {
+      "name": "Super Heavyweight Arched Yale Crest Crewneck Sweatshirt",
+      "description": "Heather gray heavyweight crewneck sweatshirt with large arched YALE lettering across the chest and a seated bulldog mascot graphic over a Yale Y below it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE"
+      ],
+      "graphic_elements": [
+        "seated bulldog mascot",
+        "Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "arched collegiate block lettering with mascot graphic",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "super heavyweight construction",
+        "arched YALE chest lettering",
+        "seated bulldog mascot over a Yale Y"
+      ],
+      "product_id": "super-heavyweight-crewneck-arched-yale-crest",
+      "image_file": "data/products/super-heavyweight-crewneck-arched-yale-crest.jpg",
+      "image_sha256": "a68e8a05e9c692ef9266082f1d6cf6c4d6613c290244179a3561ef8aeb51629b",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "arched",
+        "bulldog",
+        "crest",
+        "crewneck",
+        "heavyweight",
+        "mascot",
+        "seated",
+        "super",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:06Z"
+    },
+    {
+      "name": "Yale Felt Heavyweight T-Shirt",
+      "description": "Heavyweight cream short-sleeve T-shirt featuring a large navy Yale block “Y” centered on the chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "cream",
+      "color_detail": "cream",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [],
+      "graphic_elements": [
+        "large block letter Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "oversized collegiate block letter",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "heavyweight construction",
+        "large centered navy Yale block Y",
+        "cream body"
+      ],
+      "product_id": "t-felt-y-heavyweight",
+      "image_file": "data/products/t-felt-y-heavyweight.jpg",
+      "image_sha256": "c359d581a1316be2e034c4ab2ffccc72ce817eab3a75ffc1cce8537da29e0db4",
+      "garment_category": "tee",
+      "search_terms": [
+        "block",
+        "felt",
+        "heavyweight",
+        "large",
+        "letter"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:06Z"
+    },
+    {
+      "name": "The Forest School Hoodie",
+      "description": "A navy pullover hoodie with a drawstring hood, kangaroo pocket, and long sleeves. The front features large white “YALE” lettering with “THE FOREST SCHOOL” beneath it.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "THE FOREST SCHOOL"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block lettering with smaller bold serif text beneath",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "The Forest School",
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "large white YALE chest lettering",
+        "THE FOREST SCHOOL secondary line",
+        "front kangaroo pocket and drawstring hood"
+      ],
+      "product_id": "the-forest-school-hoodie",
+      "image_file": "data/products/the-forest-school-hoodie.jpg",
+      "image_sha256": "5a7ea797f60ba82824f6bf6be986a0945af8979733f3723b30cc5c94c52890fb",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "forest",
+        "hoodie",
+        "school",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:05Z"
+    },
+    {
+      "name": "Timothy Dwight College Crewneck",
+      "description": "Heather gray crewneck sweatshirt with a small red-and-white shield crest above black TIMOTHY DWIGHT lettering on the left chest. It has long sleeves and ribbed collar, cuffs, and hem.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "red",
+        "white",
+        "black"
+      ],
+      "printed_text": [
+        "TIMOTHY DWIGHT"
+      ],
+      "graphic_elements": [
+        "shield crest with a crescent and heraldic lions"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "Small heraldic shield above a single line of uppercase serif lettering.",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Timothy Dwight",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Red-and-white Timothy Dwight shield on left chest",
+        "Small black college-name lettering beneath crest",
+        "Heather gray body with ribbed trim"
+      ],
+      "product_id": "timothy-dwight-college-crewneck",
+      "image_file": "data/products/timothy-dwight-college-crewneck.jpg",
+      "image_sha256": "7086c764651cc85b146639dbe9c0f6c7ba354e1a442891f38733b633abb8350e",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "company",
+        "crescent",
+        "crest",
+        "crewneck",
+        "dwight",
+        "heraldic",
+        "lions",
+        "port",
+        "shield",
+        "timothy"
+      ],
+      "described_by_model": "gpt-6-astra",
+      "described_at_utc": "2026-10-04T03:28:04Z"
+    },
+    {
+      "name": "Yale Track & Field T-Shirt",
+      "description": "A navy short-sleeve T-shirt with a small white Yale Track & Field wordmark on the left chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "TRACK & FIELD"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "stacked white collegiate serif lettering",
+      "affiliation_type": "sport",
+      "sport": "track and field",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "left-chest Yale Track & Field wordmark",
+        "dark navy body",
+        "short-sleeve crew neck"
+      ],
+      "product_id": "track-field-left-chest-t-shirt",
+      "image_file": "data/products/track-field-left-chest-t-shirt.jpg",
+      "image_sha256": "00219413f01b99a62a3c75e195b1d60b2b5f1eea72734f168f7d914ce0032c5a",
+      "garment_category": "tee",
+      "search_terms": [
+        "chest",
+        "field",
+        "left",
+        "shirt",
+        "track",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:06Z"
+    },
+    {
+      "name": "Yale Baseball Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve crew-neck T-shirt with a centered navy design reading “YALE” above “BASEBALL,” with a navy outlined Yale Y beneath.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked bold collegiate block lettering with an outlined Y",
+      "affiliation_type": "sport",
+      "sport": "baseball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "tri-blend fabric indicated by the filename slug",
+        "stacked YALE BASEBALL lettering",
+        "outlined Yale Y beneath the text"
+      ],
+      "product_id": "tri-blend-sports-baseball-t-shirt",
+      "image_file": "data/products/tri-blend-sports-baseball-t-shirt.jpg",
+      "image_sha256": "2f45b16bb6313f5afd3e118b604710bcef8e6c3c89472b39fe59cbd7e9105064",
+      "garment_category": "tee",
+      "search_terms": [
+        "baseball",
+        "blend",
+        "shirt",
+        "sports",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:07Z"
+    },
+    {
+      "name": "Yale Basketball Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve crew-neck T-shirt with navy block lettering reading “YALE” and “BASKETBALL,” plus a navy Yale Y emblem beneath.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASKETBALL"
+      ],
+      "graphic_elements": [
+        "Yale Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering with a centered Yale Y emblem",
+      "affiliation_type": "sport",
+      "sport": "basketball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "heather gray tri-blend appearance",
+        "stacked YALE and BASKETBALL lettering",
+        "Yale Y emblem below the text"
+      ],
+      "product_id": "tri-blend-sports-basketball-t-shirt",
+      "image_file": "data/products/tri-blend-sports-basketball-t-shirt.jpg",
+      "image_sha256": "dab865e5edf752f40c4801d9158dc5c9aaaa1b785f276e327fe553593ae5990d",
+      "garment_category": "tee",
+      "search_terms": [
+        "basketball",
+        "blend",
+        "emblem",
+        "shirt",
+        "sports",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:07Z"
+    },
+    {
+      "name": "Yale Football Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a centered navy design reading “YALE” above “FOOTBALL,” with a large “Y” beneath.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "FOOTBALL",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering with a large block Y",
+      "affiliation_type": "sport",
+      "sport": "football",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray tri-blend fabric appearance",
+        "Stacked YALE FOOTBALL lettering",
+        "Large navy Y beneath the text"
+      ],
+      "product_id": "tri-blend-sports-football-t-shirt",
+      "image_file": "data/products/tri-blend-sports-football-t-shirt.jpg",
+      "image_sha256": "b43695d919da05e6c43b1b223068073c68e9fbd61ed507a95ae6123b62182f5e",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "football",
+        "shirt",
+        "sports",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:08Z"
+    },
+    {
+      "name": "Yale Hockey Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt featuring a centered navy Yale hockey design with large \"YALE,\" \"HOCKEY,\" and a Yale Y emblem.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY"
+      ],
+      "graphic_elements": [
+        "Yale Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering with a Yale Y emblem",
+      "affiliation_type": "sport",
+      "sport": "ice hockey",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray tri-blend fabric appearance",
+        "Navy stacked YALE HOCKEY chest print",
+        "Yale Y emblem beneath the lettering"
+      ],
+      "product_id": "tri-blend-sports-hockey-t-shirt",
+      "image_file": "data/products/tri-blend-sports-hockey-t-shirt.jpg",
+      "image_sha256": "55b8e5f1c6b0b50a2ca497330a2002ca28233133e12894e0e8bf7d7ee3e37a17",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "emblem",
+        "hockey",
+        "ice",
+        "shirt",
+        "sports",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:08Z"
+    },
+    {
+      "name": "Yale Soccer Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a centered navy stacked design reading “YALE,” “SOCCER,” and “Y.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked bold collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "soccer",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray tri-blend appearance",
+        "Stacked YALE / SOCCER / Y chest print",
+        "Short-sleeve crew neck"
+      ],
+      "product_id": "tri-blend-sports-soccer-t-shirt",
+      "image_file": "data/products/tri-blend-sports-soccer-t-shirt.jpg",
+      "image_sha256": "b1b2d732b2faa6b669fc5371d4f56fc6c9090715f38962842516817cc2a6c5d4",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "shirt",
+        "soccer",
+        "sports",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:09Z"
+    },
+    {
+      "name": "Yale Tennis Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a centered navy stacked design reading “YALE,” “TENNIS,” and a large “Y.”",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TENNIS",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "tennis",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "tri-blend style heather gray fabric",
+        "stacked YALE TENNIS Y chest graphic",
+        "navy collegiate lettering"
+      ],
+      "product_id": "tri-blend-sports-tennis-t-shirt",
+      "image_file": "data/products/tri-blend-sports-tennis-t-shirt.jpg",
+      "image_sha256": "65593136bcb4318cc351d930e061dd11ecef8db68e6eb30241328fe0cea7f37d",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "shirt",
+        "sports",
+        "tennis",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:09Z"
+    },
+    {
+      "name": "Yale Track & Field Tri-Blend T-Shirt",
+      "description": "Heather gray short-sleeve crew-neck T-shirt with a centered navy Yale design. The design reads “YALE” above “TRACK & FIELD,” with a large “Y” below.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TRACK & FIELD",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block serif lettering",
+      "affiliation_type": "sport",
+      "sport": "track and field",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Tri-blend T-shirt",
+        "Centered stacked Yale Track & Field lettering",
+        "Large Yale Y beneath the sport name"
+      ],
+      "product_id": "tri-blend-sports-track-and-field-t-shirt",
+      "image_file": "data/products/tri-blend-sports-track-and-field-t-shirt.jpg",
+      "image_sha256": "ff25473fe67d55ad57f3ea6dff4a3e8737a7fcb3e8854221246dba6af5c6c7a0",
+      "garment_category": "tee",
+      "search_terms": [
+        "blend",
+        "field",
+        "shirt",
+        "sports",
+        "track",
+        "tri",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:09Z"
+    },
+    {
+      "name": "Trumbull 1/4-Zip Pullover",
+      "description": "Heather gray long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a small Trumbull shield crest with the word “TRUMBULL” beneath it on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "black",
+        "white"
+      ],
+      "printed_text": [
+        "TRUMBULL"
+      ],
+      "graphic_elements": [
+        "Trumbull residential college shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small shield crest with uppercase serif lettering beneath",
+      "affiliation_type": "residential_college",
+      "sport": null,
+      "residential_college": "Trumbull",
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "Trumbull shield crest",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "trumbull-1-4-zip",
+      "image_file": "data/products/trumbull-1-4-zip.jpg",
+      "image_sha256": "21bfc7a8d55b07e4106a26b6f2ab1485ae74d9ffcaa399356fa337b14bf43955",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "college",
+        "crest",
+        "residential",
+        "shield",
+        "sport",
+        "tek",
+        "trumbull",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:10Z"
+    },
+    {
+      "name": "Under Armour Yale Gameday Double-Knit Hood",
+      "description": "Navy pullover hoodie with a white Yale “Y” on the center chest, white-trimmed hood, and an Under Armour logo on the sleeve. The body has a textured double-knit construction and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [
+        "white"
+      ],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block letter",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Under Armour",
+      "distinguishing_features": [
+        "white-trimmed hood",
+        "textured double-knit construction",
+        "Under Armour sleeve logo"
+      ],
+      "product_id": "ua-gameday-double-knit-hood",
+      "image_file": "data/products/ua-gameday-double-knit-hood.jpg",
+      "image_sha256": "5963083e83adcf2e8f1af77f32bdb357800e7147815a9f51e5a7750a4a0ce445",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "armour",
+        "double",
+        "gameday",
+        "hood",
+        "knit",
+        "ua",
+        "under"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:11Z"
+    },
+    {
+      "name": "Under Armour Yale Tech 2.0 Long-Sleeve Tee",
+      "description": "A navy long-sleeve performance tee with a centered Yale Bulldogs graphic in white, including the Under Armour logo beneath it.",
+      "garment_type": "long_sleeve_tee",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "solid navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "Y",
+        "BULLDOGS"
+      ],
+      "graphic_elements": [
+        "Under Armour logo",
+        "diagonal stripe pattern"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "arched outlined collegiate lettering with bold block text",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Under Armour",
+      "distinguishing_features": [
+        "long-sleeve performance fabric construction",
+        "centered Yale Bulldogs graphic",
+        "Under Armour logo below the graphic"
+      ],
+      "product_id": "ua-mens-tech-l-s-2-0",
+      "image_file": "data/products/ua-mens-tech-l-s-2-0.jpg",
+      "image_sha256": "2e1ac1be220c7d850d806359dec8531b13df410504a2f92c73936ea8744ab162",
+      "garment_category": "tee",
+      "search_terms": [
+        "armour",
+        "bulldogs",
+        "diagonal",
+        "logo",
+        "mens",
+        "pattern",
+        "stripe",
+        "tech",
+        "ua",
+        "under",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:11Z"
+    },
+    {
+      "name": "Yale Volleyball Hoodie",
+      "description": "Navy pullover hoodie with a drawstring hood, front kangaroo pocket, and small white “YALE VOLLEYBALL” lettering on the left chest.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "VOLLEYBALL"
+      ],
+      "graphic_elements": [],
+      "design_placement": "left_chest",
+      "design_style": "bold white collegiate serif lettering with smaller uppercase sport text below",
+      "affiliation_type": "sport",
+      "sport": "volleyball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "left-chest Yale Volleyball print",
+        "front kangaroo pocket",
+        "drawstring hood"
+      ],
+      "product_id": "volleyball-left-chest-hoodie",
+      "image_file": "data/products/volleyball-left-chest-hoodie.jpg",
+      "image_sha256": "b334c55ba4cf2517177219e5dcc33ea635f8c7fd3e296ad96fe76858c4a57ec1",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "chest",
+        "hoodie",
+        "left",
+        "volleyball",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:11Z"
+    },
+    {
+      "name": "Yale Aunt Hoodie",
+      "description": "A navy pullover hoodie with a front kangaroo pocket, drawstring hood, and centered Yale graphic. The design features large white “YALE” lettering with smaller “UNIVERSITY” and “AUNT” text beneath it, framed by horizontal bars.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "light gray"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "AUNT"
+      ],
+      "graphic_elements": [
+        "horizontal bars"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large block serif lettering with horizontal bars and smaller stacked text",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "aunt",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "center-chest Yale lettering framed by horizontal bars",
+        "smaller UNIVERSITY and AUNT text",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-aunt-hoodie",
+      "image_file": "data/products/yale-aunt-hoodie.jpg",
+      "image_sha256": "f850cbd65cec797300c54d47ddb890d78be52ce0f884d30b4acf6cf7231df716",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "aunt",
+        "bars",
+        "hoodie",
+        "horizontal",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:12Z"
+    },
+    {
+      "name": "Yale Bowl T-Shirt",
+      "description": "An off-white short-sleeve ringer T-shirt with navy ribbed collar and sleeve trim. The center-chest graphic features Yale lettering, a Yale Y, and an illustrated Yale Bowl diagram with blue and navy details.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "cream",
+      "color_detail": "off-white/cream body",
+      "secondary_colors": [
+        "navy"
+      ],
+      "print_colors": [
+        "navy",
+        "blue",
+        "black"
+      ],
+      "printed_text": [
+        "Yale BOWL",
+        "BOWL A? BOWL?",
+        "Go GOD,",
+        "Go COUNTRY,",
+        "and Go YALE",
+        "BULLDOGS! BULLDOGS! BULLDOGS!",
+        "Go Bulldogs!"
+      ],
+      "graphic_elements": [
+        "illustrated Yale Bowl stadium diagram",
+        "Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "vintage collegiate illustrated graphic with script and block lettering",
+      "affiliation_type": "event_or_rivalry",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": "Yale Bowl",
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "off-white ringer construction",
+        "contrasting navy collar and sleeve bands",
+        "vintage Yale Bowl illustration"
+      ],
+      "product_id": "yale-bowl-t-shirt",
+      "image_file": "data/products/yale-bowl-t-shirt.jpg",
+      "image_sha256": "2f73a4063aeae3e1e366f1c914bcc2c116e324b61de70e4efdd5dc04c45b4932",
+      "garment_category": "tee",
+      "search_terms": [
+        "bowl",
+        "bulldogs",
+        "country",
+        "diagram",
+        "go",
+        "god",
+        "illustrated",
+        "shirt",
+        "stadium",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:13Z"
+    },
+    {
+      "name": "Yale Brother Crewneck",
+      "description": "Heather gray crewneck sweatshirt with long sleeves, ribbed cuffs and hem, and a navy Yale design across the upper front. The design includes large “YALE” lettering, horizontal lines, and “BROTHER” beneath it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BROTHER"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with horizontal rules",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "brother",
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Navy horizontal rules above and below the main lettering",
+        "Large centered YALE wordmark",
+        "BROTHER subtitle beneath the lower rule"
+      ],
+      "product_id": "yale-brother-crewneck",
+      "image_file": "data/products/yale-brother-crewneck.jpg",
+      "image_sha256": "04dfe6f43a85488b6d1f89320660738a160b2fd39ac765ed54ab1785aa27b0f6",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "brother",
+        "company",
+        "crewneck",
+        "port",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:12Z"
+    },
+    {
+      "name": "Yale Cousin Crewneck",
+      "description": "Heather gray long-sleeve crewneck sweatshirt featuring a navy Yale wordmark framed by horizontal lines, with “UNIVERSITY” and “COUSIN” beneath it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "COUSIN"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif wordmark with horizontal rules and smaller stacked lettering",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "cousin",
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Yale wordmark framed by two horizontal navy lines",
+        "Small stacked “UNIVERSITY” and “COUSIN” text",
+        "Ribbed crew neck, cuffs, and waistband"
+      ],
+      "product_id": "yale-cousin-crewneck",
+      "image_file": "data/products/yale-cousin-crewneck.jpg",
+      "image_sha256": "00515618271a1638ead5ba37aa8d7d67c20332007415ceef472fbc28f5b7c790",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "company",
+        "cousin",
+        "crewneck",
+        "port",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:13Z"
+    },
+    {
+      "name": "Yale Dad Crewneck",
+      "description": "Heather gray crewneck sweatshirt with long sleeves and ribbed collar, cuffs, and hem. The front features navy Yale University Dad lettering framed by horizontal navy lines.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "bold collegiate block serif lettering with horizontal rules",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "dad",
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Navy Yale University Dad chest graphic",
+        "Horizontal navy lines above and below the main Yale lettering",
+        "Ribbed crewneck, cuffs, and waistband"
+      ],
+      "product_id": "yale-dad-crewneck",
+      "image_file": "data/products/yale-dad-crewneck.jpg",
+      "image_sha256": "68e6e8bbc4e518e7fbaded76b6c74c1f97f335e111aa4751e6268aa3a67dcc96",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "company",
+        "crewneck",
+        "dad",
+        "port",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:13Z"
+    },
+    {
+      "name": "Yale Dad Hoodie",
+      "description": "A dark navy pullover hoodie with a white chest design featuring large “YALE,” a smaller “UNIVERSITY” line, and “DAD” below.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large block lettering with horizontal rules and smaller secondary text",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "dad",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "white YALE lettering framed by horizontal rules",
+        "small UNIVERSITY text beneath YALE",
+        "front kangaroo pocket and drawstring hood"
+      ],
+      "product_id": "yale-dad-hoodie",
+      "image_file": "data/products/yale-dad-hoodie.jpg",
+      "image_sha256": "c1f957ac437d5f8a93e9a523f760693e74100e4127201f202c33b9b7793653cf",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "dad",
+        "hoodie",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:16Z"
+    },
+    {
+      "name": "Yale Dad T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a navy Yale University Dad graphic across the upper chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large block serif “YALE” with horizontal rules and smaller “UNIVERSITY” and “DAD” lettering",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "dad",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Navy Yale University Dad chest graphic",
+        "Horizontal rules above and below the main Yale lettering",
+        "Heather gray jersey fabric"
+      ],
+      "product_id": "yale-dad-t-shirt",
+      "image_file": "data/products/yale-dad-t-shirt.jpg",
+      "image_sha256": "4e1ae4551518fbcab796ffe8d0eaac3ff60f97c9da196288e54da6805e9f310e",
+      "garment_category": "tee",
+      "search_terms": [
+        "dad",
+        "shirt",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:13Z"
+    },
+    {
+      "name": "Yale Diving T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt featuring navy block lettering reading “YALE,” “DIVING,” and a large “Y” beneath.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering",
+      "affiliation_type": "sport",
+      "sport": "diving",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray body",
+        "Stacked navy YALE/DIVING/Y layout",
+        "Short-sleeve crewneck construction"
+      ],
+      "product_id": "yale-diving-t-shirt",
+      "image_file": "data/products/yale-diving-t-shirt.jpg",
+      "image_sha256": "0b59be7054a3ed9519a47f5f3786f9259a0324b7ddf84a1a32586a9bb7de1c6b",
+      "garment_category": "tee",
+      "search_terms": [
+        "diving",
+        "shirt",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:14Z"
+    },
+    {
+      "name": "Yale Grandma Hoodie",
+      "description": "A navy pullover hoodie with a white Yale wordmark framed by horizontal lines, with smaller “UNIVERSITY” and “GRANDMA” text beneath it. It has a drawstring hood, long sleeves, and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDMA"
+      ],
+      "graphic_elements": [
+        "horizontal lines framing the Yale wordmark"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large block serif wordmark with smaller centered text and horizontal rules",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "grandma",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "white Yale wordmark with horizontal framing lines",
+        "smaller UNIVERSITY and GRANDMA lettering",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-grandma-hoodie",
+      "image_file": "data/products/yale-grandma-hoodie.jpg",
+      "image_sha256": "e9d3c2cab3cec5a3b63a4d51c5b8d0c792318211f2ef559144665cbb5384364a",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "framing",
+        "grandma",
+        "hoodie",
+        "horizontal",
+        "lines",
+        "university",
+        "wordmark",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:18Z"
+    },
+    {
+      "name": "Yale Grandpa Crewneck",
+      "description": "Heather gray crewneck sweatshirt with long sleeves and a navy Yale University Grandpa design across the chest. The graphic features large block “YALE” lettering framed by horizontal lines, with “UNIVERSITY” and “GRANDPA” beneath it.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDPA"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with horizontal rules and small secondary text",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "grandpa",
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "heather gray fleece body",
+        "navy collegiate Yale chest graphic",
+        "Grandpa family designation"
+      ],
+      "product_id": "yale-grandpa-crewneck",
+      "image_file": "data/products/yale-grandpa-crewneck.jpg",
+      "image_sha256": "fe6b1e52ee3be2287903b78e33e2301d76e19fcf604212862001d3ed5a15126e",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "company",
+        "crewneck",
+        "grandpa",
+        "port",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:16Z"
+    },
+    {
+      "name": "Yale Grandpa Hoodie",
+      "description": "Navy pullover hoodie with a front kangaroo pocket, drawstring hood, and a centered white Yale design with smaller 'University' and 'Grandpa' text.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "GRANDPA"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large block lettering between horizontal lines, with smaller stacked text",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "grandpa",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "white Yale chest graphic framed by horizontal lines",
+        "smaller University and Grandpa text beneath the main lettering",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-grandpa-hoodie",
+      "image_file": "data/products/yale-grandpa-hoodie.jpg",
+      "image_sha256": "1d4ea6d3cf622a985d1d298c25ba7d3c7f8c8f6245c71f5e5410be5e2963e293",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "grandpa",
+        "hoodie",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:16Z"
+    },
+    {
+      "name": "Yale Law School 1/4-Zip Pullover",
+      "description": "A navy long-sleeve quarter-zip pullover with a stand collar, ribbed cuffs and hem, and a small Yale Law School crest and lettering on the left chest.",
+      "garment_type": "quarter_zip_pullover",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "quarter_zip",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "green",
+        "gold",
+        "black"
+      ],
+      "printed_text": [
+        "Yale Law School"
+      ],
+      "graphic_elements": [
+        "Yale Law School shield crest"
+      ],
+      "design_placement": "left_chest",
+      "design_style": "small white serif lettering beside a shield crest",
+      "affiliation_type": "graduate_or_professional_school",
+      "sport": null,
+      "residential_college": null,
+      "school": "Law School",
+      "family_member": null,
+      "event": null,
+      "brand": "Sport-Tek",
+      "distinguishing_features": [
+        "quarter-zip stand collar",
+        "small Yale Law School shield crest on left chest",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "yale-law-school-1-4-zip",
+      "image_file": "data/products/yale-law-school-1-4-zip.jpg",
+      "image_sha256": "d412ca1bc6a073eeef90c1ac3145709beee84d6392d3a68e07b362475fd677c7",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crest",
+        "law",
+        "school",
+        "shield",
+        "sport",
+        "tek",
+        "yale",
+        "zip"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:16Z"
+    },
+    {
+      "name": "Maple House Diana Mockneck",
+      "description": "A cream long-sleeve mockneck pullover sweatshirt featuring arched “BULLDOGS” lettering across the chest in blue with a darker outline.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "cream",
+      "color_detail": "cream",
+      "secondary_colors": [],
+      "print_colors": [
+        "blue",
+        "dark navy"
+      ],
+      "printed_text": [
+        "BULLDOGS"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "arched collegiate block lettering with a dark outline",
+      "affiliation_type": "general_yale",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "MapleHouse",
+      "distinguishing_features": [
+        "mockneck collar",
+        "arched BULLDOGS chest lettering",
+        "ribbed cuffs and hem"
+      ],
+      "product_id": "yale-maplehouse-diana-mockneck",
+      "image_file": "data/products/yale-maplehouse-diana-mockneck.jpg",
+      "image_sha256": "efbe858c364639e310e3bcc4f99e372f6eae8564a8823f2f07054a312e8b25fc",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "bulldogs",
+        "diana",
+        "maplehouse",
+        "mockneck",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:17Z"
+    },
+    {
+      "name": "Yale Mom Crewneck",
+      "description": "Heather gray crewneck sweatshirt with long sleeves, ribbed collar, cuffs, and hem. The front features large navy “YALE” lettering with “UNIVERSITY” beneath it and “MOM” below that, framed by navy horizontal lines.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "MOM"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with horizontal rules",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "mom",
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "large navy YALE wordmark",
+        "small UNIVERSITY line beneath Yale",
+        "MOM designation with horizontal framing lines"
+      ],
+      "product_id": "yale-mom-crewneck",
+      "image_file": "data/products/yale-mom-crewneck.jpg",
+      "image_sha256": "c053f117eaa141989ce1a3269b323a3bbf72ae2f7a482f9ff9846da9baac7dcd",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "company",
+        "crewneck",
+        "mom",
+        "port",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:17Z"
+    },
+    {
+      "name": "Yale Mom Hoodie",
+      "description": "Navy pullover hoodie with a white chest graphic featuring large “YALE” lettering, a smaller “UNIVERSITY” line, and “MOM” beneath it. It has a drawstring hood, long sleeves, and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "MOM"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "bold collegiate block lettering with horizontal rules",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "mom",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "White collegiate chest print with horizontal rules",
+        "Drawstring hood",
+        "Front kangaroo pocket"
+      ],
+      "product_id": "yale-mom-hoodie",
+      "image_file": "data/products/yale-mom-hoodie.jpg",
+      "image_sha256": "d7aa9bb63905bedc45b0fef5848db2359b35276654570a5da70ee5a4295098ec",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "hoodie",
+        "mom",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:18Z"
+    },
+    {
+      "name": "Yale Field Hockey Crewneck Sweatshirt",
+      "description": "Heather gray crewneck sweatshirt with long sleeves, featuring large navy “YALE” lettering, “FIELD HOCKEY” beneath it, and a navy outlined Yale Y on the center front.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "FIELD HOCKEY"
+      ],
+      "graphic_elements": [
+        "outlined Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large block serif lettering with centered collegiate sport layout",
+      "affiliation_type": "sport",
+      "sport": "field hockey",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "Port and Company",
+      "distinguishing_features": [
+        "Large YALE lettering across the chest",
+        "FIELD HOCKEY text beneath YALE",
+        "Outlined Yale Y centered below the sport name"
+      ],
+      "product_id": "yale-sports-creqneck-field-hockey",
+      "image_file": "data/products/yale-sports-creqneck-field-hockey.jpg",
+      "image_sha256": "73851f3cc0c863276caab06beb64287ae08bd37b84171643438be50928e420cf",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "company",
+        "creqneck",
+        "field",
+        "hockey",
+        "outlined",
+        "port",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:19Z"
+    },
+    {
+      "name": "Yale Baseball Crewneck Sweatshirt",
+      "description": "Heather gray crewneck sweatshirt with long sleeves and ribbed cuffs and hem. The front features large navy “YALE” lettering, “BASEBALL” beneath it, and a navy Yale Y emblem below.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL"
+      ],
+      "graphic_elements": [
+        "Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large stacked block serif lettering with a centered Y emblem",
+      "affiliation_type": "sport",
+      "sport": "baseball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray fleece-style body",
+        "Stacked YALE and BASEBALL front design",
+        "Centered Yale Y emblem beneath the text"
+      ],
+      "product_id": "yale-sports-crewneck-baseball",
+      "image_file": "data/products/yale-sports-crewneck-baseball.jpg",
+      "image_sha256": "d215e08ddd336070271aae1c532641f443b2ddf2170facad38e6792d31d4649c",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "baseball",
+        "crewneck",
+        "emblem",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:21Z"
+    },
+    {
+      "name": "Yale Sports Crewneck Golf",
+      "description": "Gray crewneck sweatshirt with long sleeves and ribbed cuffs and hem. The centered front design reads “YALE” above “GOLF,” with a block “Y” beneath.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy blue"
+      ],
+      "printed_text": [
+        "YALE",
+        "GOLF",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large block serif lettering with stacked collegiate layout",
+      "affiliation_type": "sport",
+      "sport": "golf",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Stacked YALE, GOLF, and Y front graphic",
+        "Long-sleeve crewneck construction",
+        "Heather gray body with navy lettering"
+      ],
+      "product_id": "yale-sports-crewneck-golf",
+      "image_file": "data/products/yale-sports-crewneck-golf.jpg",
+      "image_sha256": "b17139d30905634398cb50b8a4898acc1af7dc2b11ed071b16f99c85d5bc9d7b",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crewneck",
+        "golf",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:21Z"
+    },
+    {
+      "name": "Yale Volleyball Crewneck Sweatshirt",
+      "description": "Heather gray crewneck sweatshirt with long sleeves and a centered navy design reading “YALE” above “VOLLEYBALL,” with a navy Y below.",
+      "garment_type": "crewneck_sweatshirt",
+      "sleeve_length": "long",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "VOLLEYBALL",
+        "Y"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block lettering with a large standalone Y",
+      "affiliation_type": "sport",
+      "sport": "volleyball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Heather gray fleece-style body",
+        "Stacked YALE and VOLLEYBALL chest lettering",
+        "Standalone Yale Y beneath the text"
+      ],
+      "product_id": "yale-sports-crewneck-volleyball",
+      "image_file": "data/products/yale-sports-crewneck-volleyball.jpg",
+      "image_sha256": "b85ca7379326d7552d6697d96d10c8171cdf5f066f6729eb43da7cc1b9f85740",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "crewneck",
+        "sports",
+        "volleyball",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:20Z"
+    },
+    {
+      "name": "Yale Baseball Hoodie",
+      "description": "Heather gray pullover hoodie with a drawstring hood, front kangaroo pocket, and navy collegiate lettering reading “YALE” above “BASEBALL,” with a navy Yale Y beneath.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "BASEBALL"
+      ],
+      "graphic_elements": [
+        "Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "bold collegiate block lettering with centered varsity Y",
+      "affiliation_type": "sport",
+      "sport": "baseball",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "navy YALE BASEBALL chest graphic",
+        "centered Yale Y beneath the lettering",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-sports-hoodie-baseball",
+      "image_file": "data/products/yale-sports-hoodie-baseball.jpg",
+      "image_sha256": "c0b5e61e5ff9dc805f8ada89291aa342fe32e2ba482eefd3ea8497b59d2c1b42",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "baseball",
+        "hoodie",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:20Z"
+    },
+    {
+      "name": "Yale Diving Hoodie",
+      "description": "Heather gray pullover hoodie with a drawstring hood, front kangaroo pocket, and navy collegiate-style “YALE” lettering above “DIVING” and a Yale Y emblem.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "DIVING"
+      ],
+      "graphic_elements": [
+        "Yale Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block lettering with centered athletic emblem",
+      "affiliation_type": "sport",
+      "sport": "diving",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Front kangaroo pocket",
+        "Drawstring hood",
+        "Yale Y emblem beneath the sport lettering"
+      ],
+      "product_id": "yale-sports-hoodie-diving",
+      "image_file": "data/products/yale-sports-hoodie-diving.jpg",
+      "image_sha256": "2a3b9f05f8bdf2c04217d2914f6adf25f23341eb997fb0d851720658d8303edc",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "diving",
+        "emblem",
+        "hoodie",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:21Z"
+    },
+    {
+      "name": "Yale Golf Hoodie",
+      "description": "Heather gray pullover hoodie with a front kangaroo pocket, drawstring hood, and navy Yale Golf lettering with a stylized golf-related emblem beneath it.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy",
+        "white"
+      ],
+      "printed_text": [
+        "YALE",
+        "GOLF"
+      ],
+      "graphic_elements": [
+        "stylized golf emblem beneath the lettering"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with stacked sport text and emblem",
+      "affiliation_type": "sport",
+      "sport": "golf",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "front kangaroo pocket",
+        "drawstring hood",
+        "stacked YALE GOLF design with emblem"
+      ],
+      "product_id": "yale-sports-hoodie-golf",
+      "image_file": "data/products/yale-sports-hoodie-golf.jpg",
+      "image_sha256": "db8f611f7099a9674eecf3bb8f6e63887e8b73fd100ba658f1670ff4f6f1ad05",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "beneath",
+        "emblem",
+        "golf",
+        "hoodie",
+        "lettering",
+        "sports",
+        "stylized",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:21Z"
+    },
+    {
+      "name": "Yale Hockey Hoodie",
+      "description": "Heather gray pullover hoodie featuring large navy “YALE” lettering, “HOCKEY” beneath it, and a Yale Y emblem below. It has a drawstring hood, long sleeves, ribbed cuffs and hem, and a front kangaroo pocket.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "HOCKEY"
+      ],
+      "graphic_elements": [
+        "Yale Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "stacked collegiate block serif lettering with a large outlined Yale Y emblem",
+      "affiliation_type": "sport",
+      "sport": "ice hockey",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "stacked YALE and HOCKEY chest design",
+        "large outlined Yale Y emblem below the lettering",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-sports-hoodie-hockey",
+      "image_file": "data/products/yale-sports-hoodie-hockey.jpg",
+      "image_sha256": "cd8e0899756b8571af59cc4d675189f644b0e8af8e18d7002ff3911948e274a0",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "emblem",
+        "hockey",
+        "hoodie",
+        "ice",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:22Z"
+    },
+    {
+      "name": "Yale Soccer Hoodie",
+      "description": "Heather gray pullover hoodie with a drawstring hood, front kangaroo pocket, and navy collegiate lettering reading “YALE” above “SOCCER,” with a stylized Yale Y below.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SOCCER"
+      ],
+      "graphic_elements": [
+        "stylized Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with stacked text and an outlined Yale Y",
+      "affiliation_type": "sport",
+      "sport": "soccer",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "front kangaroo pocket",
+        "drawstring hood",
+        "stacked YALE SOCCER design with Yale Y graphic"
+      ],
+      "product_id": "yale-sports-hoodie-soccer",
+      "image_file": "data/products/yale-sports-hoodie-soccer.jpg",
+      "image_sha256": "65208ef23629b16b0686fb29f50facfa4fe831053bf03e5bf4f6dcf4b517fb59",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "hoodie",
+        "soccer",
+        "sports",
+        "stylized",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:21Z"
+    },
+    {
+      "name": "Yale Swimming Hoodie",
+      "description": "Heather gray pullover hoodie with a front kangaroo pocket and navy collegiate lettering reading “YALE” above “SWIMMING,” with a Yale Y emblem below.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "SWIMMING"
+      ],
+      "graphic_elements": [
+        "Yale Y emblem"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large arched block serif lettering with a collegiate Y emblem",
+      "affiliation_type": "sport",
+      "sport": "swimming",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "navy YALE and SWIMMING chest graphic",
+        "Yale Y emblem beneath the lettering",
+        "front kangaroo pocket"
+      ],
+      "product_id": "yale-sports-hoodie-swimming",
+      "image_file": "data/products/yale-sports-hoodie-swimming.jpg",
+      "image_sha256": "d975151b7aed0402574dc7370ce99dd000301961aa8565412fcd182496dbb894",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "emblem",
+        "hoodie",
+        "sports",
+        "swimming",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:23Z"
+    },
+    {
+      "name": "Yale Tennis Hoodie",
+      "description": "Heather gray pullover hoodie with a front kangaroo pocket and drawstring hood. The front features large navy “YALE” lettering above “TENNIS” and a Yale Y mark.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "TENNIS"
+      ],
+      "graphic_elements": [
+        "Yale Y mark"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with stacked text and Yale Y mark",
+      "affiliation_type": "sport",
+      "sport": "tennis",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "front kangaroo pocket",
+        "drawstring hood",
+        "stacked YALE and TENNIS graphic with Yale Y mark"
+      ],
+      "product_id": "yale-sports-hoodie-tennis",
+      "image_file": "data/products/yale-sports-hoodie-tennis.jpg",
+      "image_sha256": "bb5ad9408e7883c8240337a7ca74144fda1d48aec9050fc4f0845c4eab76416c",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "hoodie",
+        "mark",
+        "sports",
+        "tennis",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:23Z"
+    },
+    {
+      "name": "Yale Field Hockey T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with large navy “YALE” lettering, “FIELD HOCKEY” beneath it, and a Yale Y design centered on the chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "has_hood": false,
+      "closure": "pullover",
+      "primary_color": "gray",
+      "color_detail": "heather gray",
+      "secondary_colors": [],
+      "print_colors": [
+        "navy"
+      ],
+      "printed_text": [
+        "YALE",
+        "FIELD HOCKEY"
+      ],
+      "graphic_elements": [
+        "Yale Y"
+      ],
+      "design_placement": "center_chest",
+      "design_style": "large collegiate block serif lettering with stacked sport text and Yale Y",
+      "affiliation_type": "sport",
+      "sport": "field hockey",
+      "residential_college": null,
+      "school": null,
+      "family_member": null,
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "Large navy YALE wordmark",
+        "Field hockey-specific lettering",
+        "Yale Y centered below the text"
+      ],
+      "product_id": "yale-sports-t-shirt-field-hockey",
+      "image_file": "data/products/yale-sports-t-shirt-field-hockey.jpg",
+      "image_sha256": "01e1ca40d3e580cf5c0da1f39aebb35e781b30debea399fe281f2daa3214a9c7",
+      "garment_category": "tee",
+      "search_terms": [
+        "field",
+        "hockey",
+        "shirt",
+        "sports",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:25Z"
+    },
+    {
+      "name": "Yale Uncle Hoodie",
+      "description": "A navy pullover hoodie with a front kangaroo pocket, drawstring hood, and centered Yale graphic. The design includes large white “YALE” lettering with smaller “UNIVERSITY” and “UNCLE” text beneath it.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "has_hood": true,
+      "closure": "pullover",
+      "primary_color": "navy",
+      "color_detail": "dark navy",
+      "secondary_colors": [],
+      "print_colors": [
+        "white",
+        "gray"
+      ],
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "UNCLE"
+      ],
+      "graphic_elements": [],
+      "design_placement": "center_chest",
+      "design_style": "large block serif lettering with horizontal lines and smaller stacked text",
+      "affiliation_type": "family",
+      "sport": null,
+      "residential_college": null,
+      "school": null,
+      "family_member": "uncle",
+      "event": null,
+      "brand": "House Brand",
+      "distinguishing_features": [
+        "front kangaroo pocket",
+        "drawstring hood",
+        "large Yale wordmark with stacked University and Uncle text"
+      ],
+      "product_id": "yale-uncle-hoodie",
+      "image_file": "data/products/yale-uncle-hoodie.jpg",
+      "image_sha256": "28b386c813a2a7d045d5bb3d2b85c918eb2028850f57950932690175983a5c99",
+      "garment_category": "sweatshirt",
+      "search_terms": [
+        "hoodie",
+        "uncle",
+        "university",
+        "yale"
+      ],
+      "described_by_model": "gpt-5.6-luna",
+      "described_at_utc": "2026-10-04T03:27:24Z"
+    }
+  ]
+}

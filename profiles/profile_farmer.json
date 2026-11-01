@@ -1,0 +1,76 @@
+{
+  "profile_id": "farmer",
+  "label": "Middle-aged farmer from Kansas",
+  "summary": "Runs a family farm in Kansas and has no personal tie to Yale. Knows the name as a famous East Coast university and would only buy its apparel as a gift, for example for a relative or a neighbour's child who was admitted. Judges a product by whether it is well made, fairly priced, and plainly described.",
+  "life_stage": "45 to 60, self-employed, running a family farm",
+  "relationship_to_yale": "None directly; knows Yale by reputation and through news and sport",
+  "yale_traditions_valued": [
+    "A reputation for academic excellence that even people far from it recognise",
+    "A long history as one of the country's oldest universities",
+    "The achievement it represents when a young person from home gets in"
+  ],
+  "yale_modern_values": [
+    "Whether a place like Yale is open to students from rural and working families",
+    "Staying down to earth despite its standing",
+    "Service to the country and community, not only to its own graduates"
+  ],
+  "personal_values": [
+    "Hard work and self-reliance",
+    "Family and community",
+    "Practicality and plain dealing",
+    "Getting fair value for money"
+  ],
+  "purchase_role": "buys_for_others",
+  "buys_for": [
+    "a young relative or family friend who was admitted to Yale"
+  ],
+  "motivations": [
+    "Mark a young person's achievement with a gift",
+    "Little reason to wear a school they have no connection to"
+  ],
+  "purchase_occasions": [
+    "A relative's admission or graduation",
+    "Christmas and birthdays"
+  ],
+  "decision_drivers": [
+    "A garment that looks durable and well made",
+    "A clear, fair price",
+    "A seller that looks established and trustworthy",
+    "Simple ordering and delivery to a rural address"
+  ],
+  "price_sensitivity": "high",
+  "apparel_preferences": [
+    "Plain, sturdy sweatshirts and T-shirts",
+    "Simple lettering without fashion styling",
+    "For themselves, the colours of local teams rather than a distant university"
+  ],
+  "media_habits": [
+    "Facebook, YouTube, local television, and radio",
+    "Watches on a phone in spare moments, often with the sound off",
+    "Gives an unfamiliar ad a few seconds to explain itself"
+  ],
+  "cultural_references": [
+    "Country music, college football, and rural life",
+    "Unlikely to recognise references to hip-hop music videos or internet memes"
+  ],
+  "tone_that_resonates": [
+    "Straightforward and honest about what is for sale",
+    "Good-natured humour",
+    "Respect for work and family"
+  ],
+  "call_to_action_needs": [
+    "What the product is and who it is for",
+    "The price",
+    "How to order and how long delivery takes"
+  ],
+  "turn_offs": [
+    "Stylised imagery with no explanation of what is being sold",
+    "Anything that feels aimed only at city or campus insiders",
+    "No price or seller information"
+  ],
+  "appropriateness_concerns": [
+    "Imagery that comes across as confrontational or intimidating",
+    "Any hint of talking down to rural or working people",
+    "Profanity or crude humour"
+  ]
+}

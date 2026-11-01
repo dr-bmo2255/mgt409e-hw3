@@ -1,0 +1,72 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Agent evaluation: summary</title><style>
+  :root { --desk:#1b1410; --leather:#2a1d16; --oak:#3b2a1e; --brass:#c9a227; --glass:#4fa97c;
+          --cream:#f5e6c8; --muted:#b9ad93; --rule:#5a4330; --wrong:#ff8a80; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--desk); color:var(--cream); font:16px/1.55 Georgia, serif; }
+  .layout { display:grid; grid-template-columns:minmax(0,1fr) 360px; min-height:100vh; }
+  main { padding:26px 24px 40px; max-width:900px; }
+  aside { background:var(--leather); border-left:2px solid var(--brass); padding:24px 20px; }
+  h1 { margin:0; color:var(--brass); font-size:25px; }
+  h2 { margin:22px 0 8px; color:var(--glass); font-size:14px; letter-spacing:1.2px; text-transform:uppercase; }
+  aside h2 { margin-top:0; }
+  h3 { margin:10px 0 2px; font-size:18px; }
+  a { color:var(--brass); }
+  .steps { display:flex; gap:8px; margin:12px 0 14px; padding:0; list-style:none; flex-wrap:wrap; }
+  .steps a, .steps span { display:block; padding:3px 12px; border:1px solid var(--rule); border-radius:12px;
+      font-size:14px; text-decoration:none; color:var(--muted); }
+  .steps .part { border:0; padding-left:0; color:var(--glass); text-transform:uppercase; letter-spacing:1px; font-size:12px; }
+  .steps .here { border-color:var(--brass); color:var(--brass); }
+  .steps .done::after { content:" \2713"; color:var(--glass); }
+  .chips span { display:inline-block; margin:0 8px 8px 0; padding:3px 12px; border-radius:14px;
+      border:1px solid var(--rule); font-size:14px; }
+  .chips .ok { background:var(--glass); color:#10231a; border-color:var(--glass); }
+  .chips .bad { background:var(--wrong); color:#2b0b08; border-color:var(--wrong); }
+  .photo, video, .sheet { width:100%; border:1px solid var(--rule); border-radius:6px; display:block; }
+  .photo { max-width:640px; }
+  video { background:#000; }
+  ol, ul { padding-left:22px; margin:6px 0; } li { margin-bottom:6px; }
+  code { font:13px Consolas, monospace; color:var(--brass); }
+  .muted, .meta, .note { color:var(--muted); font-size:14px; }
+  .helps { color:var(--glass); } .hurts { color:var(--wrong); }
+  details { margin:8px 0; padding:8px 12px; border:1px solid var(--rule); border-radius:6px; }
+  summary { cursor:pointer; color:var(--brass); }
+  .meters { display:flex; flex-wrap:wrap; gap:18px; margin:6px 0; }
+  .meter { width:300px; max-width:100%; margin:0; }
+  .meter svg { width:100%; height:auto; display:block; }
+  .meter figcaption { margin-top:6px; color:var(--muted); font-size:14px; }
+  form { margin-top:8px; padding:18px; background:var(--leather); border:1px solid var(--brass); border-radius:6px; }
+  label { display:block; margin:14px 0 5px; }
+  label:first-of-type { margin-top:0; }
+  textarea { width:100%; min-height:78px; padding:9px; background:var(--oak); color:var(--cream);
+      border:1px solid var(--rule); border-radius:4px; font:15px/1.45 Georgia, serif; resize:vertical; }
+  textarea:focus { outline:2px solid var(--glass); outline-offset:1px; }
+  .submit { margin-top:16px; padding:11px 26px; font:inherit; font-weight:bold; cursor:pointer;
+      background:var(--brass); color:#1b1410; border:0; border-radius:4px; }
+  .submit:focus { outline:2px solid var(--glass); outline-offset:2px; }
+  .card { background:var(--oak); border:1px solid var(--rule); border-radius:6px; padding:14px; margin-bottom:16px; }
+  .card img { width:100%; background:#fff; border-radius:4px; display:block; }
+  .badge { display:inline-block; margin-top:10px; padding:1px 10px; border-radius:10px; font-size:12px;
+      letter-spacing:.8px; text-transform:uppercase; background:var(--glass); color:#10231a; }
+  .id { font:12px Consolas, monospace; color:var(--muted); margin:8px 0 0; }
+  .none { padding:16px; border:1px dashed var(--brass); border-radius:6px; color:var(--brass);
+      font-size:17px; margin-bottom:16px; }
+  .cart ul { padding:0; margin:0 0 12px; }
+  .cart li { list-style:none; margin:0 0 8px; padding:8px 10px; border:1px solid var(--rule); border-radius:4px; }
+  .cart button { width:100%; padding:11px; font:inherit; border-radius:4px; border:1px solid var(--rule);
+      background:#2c2420; color:var(--muted); cursor:not-allowed; }
+  table { border-collapse:collapse; width:100%; margin:12px 0; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--rule); }
+  th { color:var(--brass); font-size:13px; text-transform:uppercase; letter-spacing:.8px; }
+  @media (max-width:860px) { .layout { grid-template-columns:1fr; }
+    aside { border-left:0; border-top:2px solid var(--brass); } }
+</style></head><body>
+<main style="margin:0 auto">
+  <h1>Agent evaluation</h1>
+  <ul class="steps" aria-label="Review progress"><li><span class="part">Photos</span></li><li><a class="done" href="review_photo_1.html">Photo 1</a></li><li><a class="done" href="review_photo_2.html">Photo 2</a></li><li><a class="done" href="review_photo_3.html">Photo 3</a></li><li><a class="done" href="review_photo_4.html">Photo 4</a></li><li><span class="part">Ad</span></li><li><a class="done" href="review_ad_student.html">student</a></li><li><a class="done" href="review_ad_parent.html">parent</a></li><li><a class="done" href="review_ad_farmer.html">farmer</a></li><li><a class="done" href="review_ad_beijing_family.html">beijing family</a></li><li><a class="done" href="review_ad_urban_20.html">urban 20</a></li><li><a class="here" href="review_summary.html">Summary</a></li></ul>
+  <p>Your commentary is saved in <code>output/agent_evaluation.md</code>.</p>
+  <h2>Photos: 4 of 4 reviewed, agent correct on 4 of 4</h2>
+  <table><thead><tr><th>Photo</th><th>Actual</th><th>Agent</th><th>Product</th><th>Result</th>
+  <th>Your review</th></tr></thead><tbody><tr><td><a href="review_photo_1.html">image_01_true.jpeg</a></td><td>yes</td><td>yes</td><td>yale-dad-t-shirt</td><td>Correct</td><td>Reviewed</td></tr><tr><td><a href="review_photo_2.html">image_02_false.jpeg</a></td><td>no</td><td>no</td><td>-</td><td>Correct</td><td>Reviewed</td></tr><tr><td><a href="review_photo_3.html">image_03_true.jpeg</a></td><td>yes</td><td>yes</td><td>dry-zone-long-sleeve</td><td>Correct</td><td>Reviewed</td></tr><tr><td><a href="review_photo_4.html">image_04_false.jpeg</a></td><td>no</td><td>no</td><td>-</td><td>Correct</td><td>Reviewed</td></tr></tbody></table>
+  <h2>Ad runs: 5 of 5 reviewed</h2><table><thead><tr><th>Profile</th><th>Appropriateness</th><th>Effectiveness</th><th>Verdict</th><th>Your review</th></tr></thead><tbody><tr><td><a href="review_ad_student.html">Yale undergraduate student</a></td><td>8</td><td>5</td><td>mixed</td><td>Reviewed</td></tr><tr><td><a href="review_ad_parent.html">Parent of a Yale student</a></td><td>6</td><td>3</td><td>ineffective</td><td>Reviewed</td></tr><tr><td><a href="review_ad_farmer.html">Middle-aged farmer from Kansas</a></td><td>6</td><td>2</td><td>ineffective</td><td>Reviewed</td></tr><tr><td><a href="review_ad_beijing_family.html">Family from Beijing touring Yale with their high-school-aged child</a></td><td>6</td><td>3</td><td>ineffective</td><td>Reviewed</td></tr><tr><td><a href="review_ad_urban_20.html">20-year-old who grew up in a big-city neighbourhood</a></td><td>6</td><td>6</td><td>mixed</td><td>Reviewed</td></tr></tbody></table>
+  <p class="muted">Select an item to read or change your comments.</p>
+</main></body></html>

@@ -1,0 +1,87 @@
+{
+  "profile_id": "parent",
+  "label": "Parent of a Yale student",
+  "summary": "The parent of a current Yale undergraduate, very proud of their child's place at Yale and of the work and sacrifice behind it. They buy Yale apparel to wear that pride and as gifts for the family, usually around visits to campus. They want anything carrying the Yale name to reflect well on the university and on their child.",
+  "life_stage": "45 to 60, established career, paying or helping to pay for college",
+  "relationship_to_yale": "Parent of a current undergraduate; not necessarily a graduate themselves",
+  "yale_traditions_valued": [
+    "Academic excellence and a reputation built since 1701",
+    "The motto Lux et Veritas and what a Yale education stands for",
+    "The residential college their child belongs to",
+    "Ceremony and occasion: move-in, family weekend, The Game, commencement",
+    "The Yale name, crest, and classic navy and white"
+  ],
+  "yale_modern_values": [
+    "A welcoming, inclusive campus where their child is safe and belongs",
+    "Opportunity and access, including for families new to college or on financial aid",
+    "Character, service, and leadership alongside academic achievement",
+    "Respect for the wider New Haven community"
+  ],
+  "personal_values": [
+    "Family pride and supporting their child",
+    "Quality and things that last",
+    "Good value for money",
+    "Dignity and good taste"
+  ],
+  "purchase_role": "buys_for_self_and_others",
+  "buys_for": [
+    "themselves",
+    "their student",
+    "siblings, grandparents, and other relatives"
+  ],
+  "motivations": [
+    "Show pride in their child, for example with Yale Mom or Yale Dad apparel",
+    "Give meaningful gifts to the student and the wider family",
+    "Feel part of the Yale community from a distance"
+  ],
+  "purchase_occasions": [
+    "Admission and the summer before first year",
+    "Move-in day and family weekend",
+    "The Game",
+    "Holidays, birthdays, and commencement"
+  ],
+  "decision_drivers": [
+    "A design that names their role or their child's college",
+    "Visible quality of the garment and print",
+    "Confidence that the shop is reputable and the product is officially licensed",
+    "Easy ordering with delivery in time for the occasion"
+  ],
+  "price_sensitivity": "medium",
+  "apparel_preferences": [
+    "Family designs: Yale Mom, Yale Dad, Yale Grandma, Yale Grandpa",
+    "Classic crewnecks, quarter-zips, and T-shirts in navy or gray",
+    "Clean, traditional lettering and crests",
+    "Their child's residential college or team"
+  ],
+  "media_habits": [
+    "Facebook, Instagram, email newsletters, and parent group chats",
+    "Watches on a phone or laptop, often with the sound off at first",
+    "Will watch a full short video if it is about their child's world"
+  ],
+  "cultural_references": [
+    "Campus landmarks and scenes of student life",
+    "Family moments: drop-off, game day, graduation",
+    "Popular music from their own youth more than current hip-hop or internet memes"
+  ],
+  "tone_that_resonates": [
+    "Warm, proud, and respectful",
+    "Clear and informative about the product",
+    "Light humour that includes rather than excludes them"
+  ],
+  "call_to_action_needs": [
+    "The shop's name and website",
+    "Price, sizes, and delivery time",
+    "That family designs exist and how to find them"
+  ],
+  "turn_offs": [
+    "References they do not recognise, with no explanation of what is being sold",
+    "Fast cuts with no clear view of the product",
+    "No sign of who the seller is or whether it can be trusted"
+  ],
+  "appropriateness_concerns": [
+    "Aggressive or confrontational tone, profanity, or crude humour attached to the Yale name",
+    "Settings or styling that make the university or its students look disreputable",
+    "Anything that seems to mock academic seriousness or the families behind the students",
+    "Content they would be uncomfortable forwarding to grandparents"
+  ]
+}

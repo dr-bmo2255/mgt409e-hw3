@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "product_id": "yale-dad-t-shirt",
+      "name": "Yale Dad T-Shirt",
+      "image_file": "data/products/yale-dad-t-shirt.jpg",
+      "quantity": 1,
+      "size": null,
+      "unit_price_usd": null
+    }
+  ],
+  "checkout_enabled": false,
+  "note": "Homework project: the agent fills the cart only. It cannot place an order."
+}

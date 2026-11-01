@@ -1,0 +1,310 @@
+[
+  {
+    "verdict": "match",
+    "observed_garment": {
+      "description": "Heather gray short-sleeve T-shirt with navy YALE lettering, horizontal rules, and smaller UNIVERSITY and DAD text on the chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "primary_color": "gray",
+      "printed_text": [
+        "YALE",
+        "UNIVERSITY",
+        "DAD"
+      ],
+      "graphic_elements": [
+        "horizontal rules"
+      ]
+    },
+    "matched_product_id": "yale-dad-t-shirt",
+    "possible_match_reason": null,
+    "candidates": [],
+    "reasons": [
+      "Reference photo matches the heather gray short-sleeve T-shirt.",
+      "Navy serif YALE, horizontal rules, and smaller right-aligned UNIVERSITY and DAD match the design."
+    ],
+    "confidence": "high",
+    "question_for_user": null,
+    "steps": [
+      {
+        "tool": "search_catalogue",
+        "arguments": {
+          "words": [
+            "yale",
+            "university",
+            "dad",
+            "lines"
+          ],
+          "garment_category": "tee",
+          "garment_type": "t_shirt",
+          "sleeve_length": "short",
+          "has_hood": false,
+          "closure": "pullover",
+          "primary_color": "gray",
+          "design_placement": "center_chest",
+          "affiliation_type": "family",
+          "family_member": "dad"
+        },
+        "outcome": "Shortlisted by catalogue fields: yale-dad-t-shirt (score 21), yale-dad-crewneck (score 16), yale-dad-hoodie (score 14), 2025-yale-vs-harvard-t-shirt (score 11), district-tri-blend-t-shirt-vintage-shield (score 11)"
+      },
+      {
+        "tool": "view_catalogue_images",
+        "arguments": {
+          "product_ids": [
+            "yale-dad-t-shirt"
+          ]
+        },
+        "outcome": "Opened 1 catalogue reference photo(s) to compare: yale-dad-t-shirt"
+      },
+      {
+        "tool": "add_to_cart",
+        "arguments": {
+          "product_id": "yale-dad-t-shirt"
+        },
+        "outcome": "Added to the shopping cart. No purchase was made."
+      }
+    ],
+    "image_path": "data/test_images/image_01_true.jpeg",
+    "campus_customs_product_in_photo": "yes",
+    "matched_product": {
+      "product_id": "yale-dad-t-shirt",
+      "name": "Yale Dad T-Shirt",
+      "description": "Heather gray short-sleeve T-shirt with a navy Yale University Dad graphic across the upper chest.",
+      "brand": "House Brand",
+      "garment_type": "t_shirt",
+      "color_detail": "heather gray",
+      "image_file": "data/products/yale-dad-t-shirt.jpg"
+    },
+    "candidate_products": [],
+    "shortlist_product_ids": [
+      "yale-dad-t-shirt",
+      "yale-dad-crewneck",
+      "yale-dad-hoodie",
+      "2025-yale-vs-harvard-t-shirt",
+      "district-tri-blend-t-shirt-vintage-shield"
+    ],
+    "reference_images_viewed": [
+      "yale-dad-t-shirt"
+    ],
+    "cart": {
+      "items": [
+        {
+          "product_id": "yale-dad-t-shirt",
+          "name": "Yale Dad T-Shirt",
+          "image_file": "data/products/yale-dad-t-shirt.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "sidebar_file": "output/identify_product_image_01_true.html",
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T05:06:48Z",
+    "cost": {
+      "requests": 4,
+      "tool_calls": 3,
+      "input_tokens": 12671,
+      "output_tokens": 310,
+      "cost_usd": "0.1422"
+    }
+  },
+  {
+    "verdict": "no_match",
+    "observed_garment": {
+      "description": "Gray pullover hoodie with black ESSENTIALS lettering across the chest.",
+      "garment_type": "hoodie",
+      "sleeve_length": "long",
+      "primary_color": "gray",
+      "printed_text": [
+        "ESSENTIALS"
+      ],
+      "graphic_elements": []
+    },
+    "matched_product_id": null,
+    "possible_match_reason": null,
+    "candidates": [],
+    "reasons": [
+      "The hoodie reads ESSENTIALS, not Yale.",
+      "No Yale wording or graphics are visible."
+    ],
+    "confidence": "high",
+    "question_for_user": null,
+    "steps": [],
+    "image_path": "data/test_images/image_02_false.jpeg",
+    "campus_customs_product_in_photo": "no",
+    "matched_product": null,
+    "candidate_products": [],
+    "shortlist_product_ids": [],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "sidebar_file": "output/identify_product_image_02_false.html",
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T05:06:48Z",
+    "cost": {
+      "requests": 1,
+      "tool_calls": 0,
+      "input_tokens": 2511,
+      "output_tokens": 122,
+      "cost_usd": "0.0312"
+    }
+  },
+  {
+    "verdict": "match",
+    "observed_garment": {
+      "description": "Navy long-sleeve crewneck tee with large white YALE lettering and smaller BULLDOGS centered beneath.",
+      "garment_type": "long_sleeve_tee",
+      "sleeve_length": "long",
+      "primary_color": "navy",
+      "printed_text": [
+        "YALE",
+        "BULLDOGS"
+      ],
+      "graphic_elements": []
+    },
+    "matched_product_id": "dry-zone-long-sleeve",
+    "possible_match_reason": null,
+    "candidates": [],
+    "reasons": [
+      "Reference photo matches the navy colour and long-sleeve crewneck cut.",
+      "Solid white serif YALE above smaller BULLDOGS matches the chest design."
+    ],
+    "confidence": "high",
+    "question_for_user": null,
+    "steps": [
+      {
+        "tool": "search_catalogue",
+        "arguments": {
+          "words": [
+            "yale",
+            "bulldogs"
+          ],
+          "garment_category": "tee",
+          "garment_type": "long_sleeve_tee",
+          "sleeve_length": "long",
+          "has_hood": false,
+          "closure": "pullover",
+          "primary_color": "navy",
+          "design_placement": "center_chest",
+          "affiliation_type": "general_yale"
+        },
+        "outcome": "Shortlisted by catalogue fields: dry-zone-long-sleeve (score 15), ua-mens-tech-l-s-2-0 (score 15), yale-maplehouse-diana-mockneck (score 10), big-yale-tri-blend-t-shirt (score 9), district-tri-blend-t-shirt-vintage-shield (score 9)"
+      },
+      {
+        "tool": "view_catalogue_images",
+        "arguments": {
+          "product_ids": [
+            "dry-zone-long-sleeve",
+            "ua-mens-tech-l-s-2-0"
+          ]
+        },
+        "outcome": "Opened 2 catalogue reference photo(s) to compare: dry-zone-long-sleeve, ua-mens-tech-l-s-2-0"
+      },
+      {
+        "tool": "add_to_cart",
+        "arguments": {
+          "product_id": "dry-zone-long-sleeve"
+        },
+        "outcome": "Added to the shopping cart. No purchase was made."
+      }
+    ],
+    "image_path": "data/test_images/image_03_true.jpeg",
+    "campus_customs_product_in_photo": "yes",
+    "matched_product": {
+      "product_id": "dry-zone-long-sleeve",
+      "name": "Yale Dry-Zone Long-Sleeve Tee",
+      "description": "Navy long-sleeve pullover tee featuring large white “YALE” lettering with smaller white “BULLDOGS” text centered on the chest.",
+      "brand": "Sport-Tek",
+      "garment_type": "long_sleeve_tee",
+      "color_detail": "dark navy",
+      "image_file": "data/products/dry-zone-long-sleeve.jpg"
+    },
+    "candidate_products": [],
+    "shortlist_product_ids": [
+      "dry-zone-long-sleeve",
+      "ua-mens-tech-l-s-2-0",
+      "yale-maplehouse-diana-mockneck",
+      "big-yale-tri-blend-t-shirt",
+      "district-tri-blend-t-shirt-vintage-shield"
+    ],
+    "reference_images_viewed": [
+      "dry-zone-long-sleeve",
+      "ua-mens-tech-l-s-2-0"
+    ],
+    "cart": {
+      "items": [
+        {
+          "product_id": "dry-zone-long-sleeve",
+          "name": "Yale Dry-Zone Long-Sleeve Tee",
+          "image_file": "data/products/dry-zone-long-sleeve.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "sidebar_file": "output/identify_product_image_03_true.html",
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T05:06:49Z",
+    "cost": {
+      "requests": 4,
+      "tool_calls": 3,
+      "input_tokens": 13394,
+      "output_tokens": 305,
+      "cost_usd": "0.1492"
+    }
+  },
+  {
+    "verdict": "no_match",
+    "observed_garment": {
+      "description": "A blue short-sleeve T-shirt with a small white Balenciaga wordmark and red-and-white curved stripes on the chest.",
+      "garment_type": "t_shirt",
+      "sleeve_length": "short",
+      "primary_color": "blue",
+      "printed_text": [
+        "Balenciaga"
+      ],
+      "graphic_elements": [
+        "red-and-white curved stripes"
+      ]
+    },
+    "matched_product_id": null,
+    "possible_match_reason": null,
+    "candidates": [],
+    "reasons": [
+      "The T-shirt displays Balenciaga branding, not Yale wording or graphics.",
+      "No Yale apparel is visible."
+    ],
+    "confidence": "high",
+    "question_for_user": null,
+    "steps": [],
+    "image_path": "data/test_images/image_04_false.jpeg",
+    "campus_customs_product_in_photo": "no",
+    "matched_product": null,
+    "candidate_products": [],
+    "shortlist_product_ids": [],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "sidebar_file": "output/identify_product_image_04_false.html",
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T05:06:49Z",
+    "cost": {
+      "requests": 1,
+      "tool_calls": 0,
+      "input_tokens": 2541,
+      "output_tokens": 186,
+      "cost_usd": "0.0347"
+    }
+  }
+]

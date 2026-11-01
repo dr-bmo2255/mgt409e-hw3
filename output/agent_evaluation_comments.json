@@ -1,0 +1,34 @@
+{
+  "data/test_images/image_01_true.jpeg": {
+    "image_path": "data/test_images/image_01_true.jpeg",
+    "did_well": "Agent was able to drill down in the catalogue based on established criteria of words on the shirt, garment type, sleeve length, color, graphic placement, closure type, affiliation type.  It immediately narrowed it down to 5 items.  Appropriately opened catalogue image and added to cart for me.",
+    "was_bad": "Cost of this search was still $0.14.  Performed repeatedly, this could get expensive.",
+    "mistakes": "No mistakes",
+    "how_to_fix": "No mistakes, but next iteration, I would like to find a way to get less expensive.",
+    "submitted_at_utc": "2026-10-04T05:14:36Z"
+  },
+  "data/test_images/image_02_false.jpeg": {
+    "image_path": "data/test_images/image_02_false.jpeg",
+    "did_well": "Knew immediately that this was not a catalogue item.  from the text on the shirt.  Cost was $0.0312",
+    "was_bad": "Nothing was bad about this.",
+    "mistakes": "There were no mistakes",
+    "how_to_fix": "Nothing to fix.",
+    "submitted_at_utc": "2026-10-04T05:16:17Z"
+  },
+  "data/test_images/image_03_true.jpeg": {
+    "image_path": "data/test_images/image_03_true.jpeg",
+    "did_well": "It inferred the text that cannot be seen.  Letter A in YALE and everything after BU is not seen in BULLDOGS.  \nNarrowed down to 2 items and then compared the image directly.",
+    "was_bad": "Again a little costly at $0.15.  I would really like to get that cost down to under $0.03.",
+    "mistakes": "no mistakes",
+    "how_to_fix": "no mistakes.  Work on token efficiency.",
+    "submitted_at_utc": "2026-10-04T05:19:01Z"
+  },
+  "data/test_images/image_04_false.jpeg": {
+    "image_path": "data/test_images/image_04_false.jpeg",
+    "did_well": "Knew immediately that this was not a Yale shirt",
+    "was_bad": "No concerns.  Cost was $0.0347",
+    "mistakes": "No mistakes",
+    "how_to_fix": "No mistakes to fix",
+    "submitted_at_utc": "2026-10-04T05:20:26Z"
+  }
+}

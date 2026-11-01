@@ -1,0 +1,10 @@
+{
+  "05326b42e14298167bdc6972826cb6aaca6816bdd2e79604f4145da162eb5fc1": [
+    {
+      "product_id": "basic-hoodie-big-yale",
+      "verdict": "match",
+      "seen_at_seconds": 3.4,
+      "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+    }
+  ]
+}

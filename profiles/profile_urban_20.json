@@ -1,0 +1,79 @@
+{
+  "profile_id": "urban_20",
+  "label": "20-year-old who grew up in a big-city neighbourhood",
+  "summary": "Grew up in the urban core of a major city such as Los Angeles, Chicago, New York, or Miami, and is now working, studying locally, or both. Has no tie to Yale and would wear its apparel as style, not affiliation. Fluent in music, streetwear, and social video, and quick to notice when a brand borrows that culture without earning it.",
+  "life_stage": "20, early in work or college, living in their home city",
+  "relationship_to_yale": "None directly; knows Yale as a famous and exclusive university",
+  "yale_traditions_valued": [
+    "The name as a recognised symbol of prestige",
+    "Classic collegiate lettering as a fashion look",
+    "Ivy League standing, viewed with both interest and scepticism"
+  ],
+  "yale_modern_values": [
+    "Whether elite universities are really open to people from neighbourhoods like theirs",
+    "Representation: seeing people who look and dress like them treated with respect",
+    "Honesty about privilege rather than pretending it is not there"
+  ],
+  "personal_values": [
+    "Authenticity and being true to where they come from",
+    "Loyalty to friends and neighbourhood",
+    "Personal style and self-expression",
+    "Making their own way"
+  ],
+  "purchase_role": "buys_for_self",
+  "buys_for": [
+    "themselves"
+  ],
+  "motivations": [
+    "The collegiate streetwear look",
+    "Wearing what artists, athletes, and people they respect are wearing",
+    "A sense of aspiration, on their own terms"
+  ],
+  "purchase_occasions": [
+    "Seeing a piece in a video or on someone whose style they rate",
+    "A new release or limited run",
+    "Payday or back-to-school season"
+  ],
+  "decision_drivers": [
+    "Fit, weight, and how the garment looks worn",
+    "Credibility: who is wearing it and whether the brand feels real",
+    "Price against the streetwear and sportswear brands they already buy",
+    "A link that goes straight to the product"
+  ],
+  "price_sensitivity": "medium",
+  "apparel_preferences": [
+    "Heavyweight, roomy hoodies and crewnecks",
+    "Bold collegiate lettering in navy, black, or gray",
+    "Pieces that work with sneakers and everyday streetwear"
+  ],
+  "media_habits": [
+    "TikTok, Instagram, and YouTube, with sound on",
+    "Watches music videos and creators closely and shares what stands out",
+    "Scrolls past anything that looks like a conventional advert"
+  ],
+  "cultural_references": [
+    "Hip-hop past and present, including well-known music videos",
+    "Sneaker and streetwear culture",
+    "Pride in their own city"
+  ],
+  "tone_that_resonates": [
+    "Confident, stylish, and unforced",
+    "Led by music and visuals rather than a sales pitch",
+    "Made with the culture, not about it"
+  ],
+  "call_to_action_needs": [
+    "Where to buy, as a direct link or handle",
+    "Price, sizing, and fit",
+    "Whether it ships to them"
+  ],
+  "turn_offs": [
+    "Awkward imitation of music videos or street style",
+    "Preppy or exclusive messaging",
+    "No way to find or buy the item shown"
+  ],
+  "appropriateness_concerns": [
+    "An elite institution using urban settings or hip-hop imagery as a costume",
+    "City life shown as a caricature, or people used as background props",
+    "Mocking the artists or communities a style comes from"
+  ]
+}

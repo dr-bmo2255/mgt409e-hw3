@@ -1,0 +1,1218 @@
+[
+  {
+    "catalogue_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "verdict": "match",
+        "seen_at_seconds": 3.4,
+        "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+      }
+    ],
+    "ad_summary": "The ad shows a foreground figure wearing a navy YALE pullover hoodie and gesturing toward the camera beneath a concrete overpass, with a group in casual apparel behind them. Shifting close-ups and wider views give it a music-video-style presentation; the last sampled frame still shows the group, without shopping information.",
+    "key_moments": [
+      {
+        "timestamp_seconds": 0.4,
+        "observation": "The opening sampled frame puts the navy YALE hoodie close to the camera beneath an overpass."
+      },
+      {
+        "timestamp_seconds": 1.9,
+        "observation": "A high-angle view shows the hoodie styled with jeans, with other people standing behind."
+      },
+      {
+        "timestamp_seconds": 4.9,
+        "observation": "A wider view reveals the group and additional Yale-lettered apparel, while the foreground figure remains central."
+      },
+      {
+        "timestamp_seconds": 8.7,
+        "observation": "The final sampled frame shows the foreground hoodie and group, with no Campus Customs name, link, price, or offer visible."
+      }
+    ],
+    "products_shown": [
+      "Navy pullover hoodie with large white serif YALE lettering across the chest"
+    ],
+    "call_to_action_seen": false,
+    "effectiveness_score": 5,
+    "verdict": "mixed",
+    "appropriateness_score": 8,
+    "appropriateness_reasons": [
+      "The casual clothing and unembellished setting do not visibly flaunt wealth or Ivy League prestige, fitting the customer's concern for humility.",
+      "The group presentation offers a sense of belonging, although the repeated emphasis on one foreground figure is less aligned with their preference for showing the group rather than one hero.",
+      "Nothing visible mocks a culture or disparages New Haven; the frames alone cannot establish how any artist reference is handled."
+    ],
+    "profile_fit": [
+      {
+        "profile_trait": "Prefers navy hoodies and streetwear styling.",
+        "ad_element": "The navy YALE pullover is prominent and worn casually with jeans.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Decides within two seconds and enjoys music-video references.",
+        "ad_element": "Early close-ups and changing camera angles provide an immediate visual hook, though a specific parody cannot be established from the frames.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Values shared experiences and a group rather than one hero.",
+        "ad_element": "A group is present, but most sampled shots privilege the same foreground figure rather than shared interaction.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Prefers college, team, or club designs over plain YALE lettering.",
+        "ad_element": "The clearest advertised garment has generic YALE lettering; no clearly legible residential-college or club option is presented.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Highly price-sensitive and needs a mobile shopping link and student offer.",
+        "ad_element": "No store identifier, phone-friendly destination, price, or student offer appears in the sampled frames.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Primarily watches short vertical videos on Reels and TikTok.",
+        "ad_element": "The approximately nine-second duration suits quick viewing, but the wide-format composition is less suited to a vertical phone feed.",
+        "effect": "hurts"
+      }
+    ],
+    "recommendations": [
+      "Add a phone-readable Campus Customs link or handle and an actual student price or offer to the closing group shot.",
+      "Give several group members equal focus and show available residential-college, team, or club designs alongside the plain YALE hoodie.",
+      "Create a vertical cut with a playful campus-specific visual joke in the first two seconds, keeping the casual group setting rather than adding a hard sell."
+    ],
+    "confidence": "medium",
+    "limitations": [
+      "Audio is unavailable, so music, speech, and the tone of any cultural reference cannot be judged.",
+      "Evenly sampled frames may miss brief text or actions between samples.",
+      "The frames do not establish that the participants are students or classmates, which matters to this customer's preference for authentic student-made advertising."
+    ],
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_student.json",
+    "profile": {
+      "profile_id": "student",
+      "label": "Yale undergraduate student",
+      "summary": "A current Yale College undergraduate living in a residential college. Proud of where they are but wary of looking boastful about it, they wear Yale apparel as everyday clothing and as a sign of belonging to a college, team, or group. They are quick to spot marketing that tries too hard.",
+      "life_stage": "18 to 22, full-time student on a limited budget",
+      "relationship_to_yale": "Current undergraduate, member of a residential college and several student groups",
+      "yale_traditions_valued": [
+        "Residential college identity and friendly rivalry between colleges",
+        "The Game against Harvard and Bulldog spirit, including Handsome Dan",
+        "Academic seriousness and the motto Lux et Veritas, light and truth",
+        "Student traditions in the arts: a cappella, theatre, and student publications",
+        "A long history worn lightly rather than shown off"
+      ],
+      "yale_modern_values": [
+        "Belonging and inclusion across a diverse, international student body",
+        "Access: many classmates are on financial aid or are the first in their family at college",
+        "Community and service, including being a good neighbour to New Haven",
+        "Humility and self-awareness about privilege and elitism",
+        "Creative expression and open debate",
+        "Sustainability and responsible buying"
+      ],
+      "personal_values": [
+        "Authenticity over polish",
+        "Friendship and shared experiences",
+        "Individual style within a group identity"
+      ],
+      "purchase_role": "buys_for_self_and_others",
+      "buys_for": [
+        "themselves",
+        "teammates and club members",
+        "friends and family as occasional gifts"
+      ],
+      "motivations": [
+        "Show college, team, or club pride at games and campus events",
+        "Wear what friends and teammates are wearing",
+        "Own something that looks current, not like a tourist's gift-shop sweatshirt"
+      ],
+      "purchase_occasions": [
+        "Move-in and the start of term",
+        "The Game and other big home games",
+        "Team, club, or residential college orders",
+        "Family weekend, when someone else may be paying"
+      ],
+      "decision_drivers": [
+        "Seeing friends or other students wearing it",
+        "A design specific to their own college, team, or club",
+        "A clear price that undercuts or matches the bookstore",
+        "A quick mobile checkout"
+      ],
+      "price_sensitivity": "high",
+      "apparel_preferences": [
+        "Hoodies and crewnecks in navy or gray",
+        "Streetwear fit and styling",
+        "College, team, or club designs over plain YALE lettering"
+      ],
+      "media_habits": [
+        "Short vertical video on Instagram Reels and TikTok, mostly with sound on",
+        "Decides within two seconds whether to keep watching",
+        "Shares clips that are funny or clever with friends"
+      ],
+      "cultural_references": [
+        "Current hip-hop and pop, and parodies of well-known music videos",
+        "Internet humour, memes, and inside jokes about campus life",
+        "Classmates appearing on screen rather than models"
+      ],
+      "tone_that_resonates": [
+        "Playful, self-aware, and confident without bragging",
+        "Made by students, for students",
+        "Shows the group, not one hero"
+      ],
+      "call_to_action_needs": [
+        "Where to buy, as a link or handle that works on a phone",
+        "The price or a student offer",
+        "Whether their college or team design exists"
+      ],
+      "turn_offs": [
+        "Hard-sell messaging and long voice-overs",
+        "Ads that feel made for parents or alumni",
+        "Adults imitating student slang",
+        "Not being told where to buy or what it costs"
+      ],
+      "appropriateness_concerns": [
+        "Flaunting status or wealth, or playing up Ivy League elitism",
+        "Stereotypes about any group of students, or a cast that does not look like the student body",
+        "Borrowing from a culture or an artist in a way that mocks rather than celebrates",
+        "Disrespect toward New Haven or its residents"
+      ]
+    },
+    "video": {
+      "duration_seconds": 9.05,
+      "has_audio": true,
+      "audio_assessed": false,
+      "frames_sampled": 12,
+      "frame_timestamps_seconds": [
+        0.38,
+        1.13,
+        1.89,
+        2.64,
+        3.39,
+        4.15,
+        4.9,
+        5.66,
+        6.41,
+        7.16,
+        7.92,
+        8.67
+      ],
+      "frame_sheets": [
+        "output/ad_frames/ad_humble_sheet1.jpg"
+      ]
+    },
+    "identified_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "name": "Basic Big Yale Hoodie",
+        "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+        "brand": "House Brand",
+        "garment_type": "hoodie",
+        "color_detail": "solid dark navy",
+        "image_file": "data/products/basic-hoodie-big-yale.jpg"
+      }
+    ],
+    "products_reused_from_earlier_run": true,
+    "shortlist_product_ids": [
+      "basic-hoodie-big-yale"
+    ],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [
+        {
+          "product_id": "basic-hoodie-big-yale",
+          "name": "Basic Big Yale Hoodie",
+          "image_file": "data/products/basic-hoodie-big-yale.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "page_file": "output/ad_effectiveness_student.html",
+    "steps": [
+      {
+        "tool": "read_customer_profile",
+        "arguments": {},
+        "outcome": "Read profile 'student': Yale undergraduate student."
+      },
+      {
+        "tool": "watch_ad_video",
+        "arguments": {},
+        "outcome": "Viewed 12 frames sampled across 9.1 seconds. Audio could not be assessed."
+      }
+    ],
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T06:03:04Z",
+    "cost": {
+      "requests": 2,
+      "tool_calls": 2,
+      "input_tokens": 8053,
+      "output_tokens": 889,
+      "cost_usd": "0.1250"
+    }
+  },
+  {
+    "catalogue_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "verdict": "match",
+        "seen_at_seconds": 3.4,
+        "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+      }
+    ],
+    "ad_summary": "The ad shows a foreground figure wearing a navy hoodie with large white YALE lettering beneath a concrete overpass, with a group in dark apparel behind them. Views alternate between close-ups, elevated angles, and wider group shots, ending on the group without a visible shopping message.",
+    "key_moments": [
+      {
+        "timestamp_seconds": 0.4,
+        "observation": "A close view introduces the navy YALE hoodie beneath an overpass, with a hand held at the chin."
+      },
+      {
+        "timestamp_seconds": 1.9,
+        "observation": "An elevated view shows the hoodie's white chest lettering, the dirt ground, and part of the surrounding group."
+      },
+      {
+        "timestamp_seconds": 4.9,
+        "observation": "A wider view shows the foreground hoodie and a group standing among concrete pillars, including other Yale-lettered tops."
+      },
+      {
+        "timestamp_seconds": 8.7,
+        "observation": "The ending remains a group shot with the YALE hoodie foregrounded; no store name, website, price, or offer is visible."
+      }
+    ],
+    "products_shown": [
+      "Navy pullover hoodie with large white serif YALE lettering across the chest."
+    ],
+    "call_to_action_seen": false,
+    "effectiveness_score": 3,
+    "verdict": "ineffective",
+    "appropriateness_score": 6,
+    "appropriateness_reasons": [
+      "The classic navy-and-white Yale lettering supports this parent's preference for traditional university branding and visible family pride.",
+      "The stern expressions, camera-facing poses, and overpass setting may feel off-key for their preferred warm, dignified portrayal of Yale; the frames do not establish disreputable behavior.",
+      "No visible crude text, mockery of academics or families, or explicit violence conflicts with their concerns about content suitable for grandparents; audio cannot be assessed."
+    ],
+    "profile_fit": [
+      {
+        "profile_trait": "Prefers classic navy and white, clean traditional lettering, and apparel that expresses pride in their child.",
+        "ad_element": "The prominent navy hoodie with white YALE lettering makes university affiliation immediately recognizable.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Often watches with sound off initially and will watch a short video about their child's world.",
+        "ad_element": "The nine-second sequence communicates Yale branding visually, though it does not establish a recognizable campus or family occasion.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Responds to warm, proud, respectful messaging and campus or family moments.",
+        "ad_element": "Stern camera-facing poses under an overpass offer little connection to family weekend, academic achievement, or belonging as a parent.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Wants family-role or residential-college designs and meaningful gifts for relatives.",
+        "ad_element": "The main product is a generic YALE hoodie; no clearly readable family-role design or explanation of family options appears.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Needs a reputable seller, website, price, sizes, and delivery timing.",
+        "ad_element": "No visible Campus Customs identification or shopping information tells this parent where to buy or whether a gift will arrive in time.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Values lasting quality and good value for money.",
+        "ad_element": "The changing angles display the logo but provide no fabric, construction, print-quality, or price details to support a purchase decision.",
+        "effect": "hurts"
+      }
+    ],
+    "recommendations": [
+      "Replace some overpass close-ups with a warm campus-visit or family-weekend scene, retaining the clear navy-and-white Yale branding and showing family-role options.",
+      "Add a phone-readable closing card with Campus Customs' name, website, actual price, size availability, occasion-relevant delivery timing, and a clear route to family designs.",
+      "Include a steady product close-up and verified material and licensing information to address this parent's quality and seller-trust concerns."
+    ],
+    "confidence": "medium",
+    "limitations": [
+      "Audio is unavailable, so speech, music, and any audible message or profanity cannot be assessed.",
+      "Evenly sampled frames may miss brief text or actions and cannot establish the precise editing pace.",
+      "The frames do not establish garment durability, licensing status, prices, sizes, or delivery availability."
+    ],
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_parent.json",
+    "profile": {
+      "profile_id": "parent",
+      "label": "Parent of a Yale student",
+      "summary": "The parent of a current Yale undergraduate, very proud of their child's place at Yale and of the work and sacrifice behind it. They buy Yale apparel to wear that pride and as gifts for the family, usually around visits to campus. They want anything carrying the Yale name to reflect well on the university and on their child.",
+      "life_stage": "45 to 60, established career, paying or helping to pay for college",
+      "relationship_to_yale": "Parent of a current undergraduate; not necessarily a graduate themselves",
+      "yale_traditions_valued": [
+        "Academic excellence and a reputation built since 1701",
+        "The motto Lux et Veritas and what a Yale education stands for",
+        "The residential college their child belongs to",
+        "Ceremony and occasion: move-in, family weekend, The Game, commencement",
+        "The Yale name, crest, and classic navy and white"
+      ],
+      "yale_modern_values": [
+        "A welcoming, inclusive campus where their child is safe and belongs",
+        "Opportunity and access, including for families new to college or on financial aid",
+        "Character, service, and leadership alongside academic achievement",
+        "Respect for the wider New Haven community"
+      ],
+      "personal_values": [
+        "Family pride and supporting their child",
+        "Quality and things that last",
+        "Good value for money",
+        "Dignity and good taste"
+      ],
+      "purchase_role": "buys_for_self_and_others",
+      "buys_for": [
+        "themselves",
+        "their student",
+        "siblings, grandparents, and other relatives"
+      ],
+      "motivations": [
+        "Show pride in their child, for example with Yale Mom or Yale Dad apparel",
+        "Give meaningful gifts to the student and the wider family",
+        "Feel part of the Yale community from a distance"
+      ],
+      "purchase_occasions": [
+        "Admission and the summer before first year",
+        "Move-in day and family weekend",
+        "The Game",
+        "Holidays, birthdays, and commencement"
+      ],
+      "decision_drivers": [
+        "A design that names their role or their child's college",
+        "Visible quality of the garment and print",
+        "Confidence that the shop is reputable and the product is officially licensed",
+        "Easy ordering with delivery in time for the occasion"
+      ],
+      "price_sensitivity": "medium",
+      "apparel_preferences": [
+        "Family designs: Yale Mom, Yale Dad, Yale Grandma, Yale Grandpa",
+        "Classic crewnecks, quarter-zips, and T-shirts in navy or gray",
+        "Clean, traditional lettering and crests",
+        "Their child's residential college or team"
+      ],
+      "media_habits": [
+        "Facebook, Instagram, email newsletters, and parent group chats",
+        "Watches on a phone or laptop, often with the sound off at first",
+        "Will watch a full short video if it is about their child's world"
+      ],
+      "cultural_references": [
+        "Campus landmarks and scenes of student life",
+        "Family moments: drop-off, game day, graduation",
+        "Popular music from their own youth more than current hip-hop or internet memes"
+      ],
+      "tone_that_resonates": [
+        "Warm, proud, and respectful",
+        "Clear and informative about the product",
+        "Light humour that includes rather than excludes them"
+      ],
+      "call_to_action_needs": [
+        "The shop's name and website",
+        "Price, sizes, and delivery time",
+        "That family designs exist and how to find them"
+      ],
+      "turn_offs": [
+        "References they do not recognise, with no explanation of what is being sold",
+        "Fast cuts with no clear view of the product",
+        "No sign of who the seller is or whether it can be trusted"
+      ],
+      "appropriateness_concerns": [
+        "Aggressive or confrontational tone, profanity, or crude humour attached to the Yale name",
+        "Settings or styling that make the university or its students look disreputable",
+        "Anything that seems to mock academic seriousness or the families behind the students",
+        "Content they would be uncomfortable forwarding to grandparents"
+      ]
+    },
+    "video": {
+      "duration_seconds": 9.05,
+      "has_audio": true,
+      "audio_assessed": false,
+      "frames_sampled": 12,
+      "frame_timestamps_seconds": [
+        0.38,
+        1.13,
+        1.89,
+        2.64,
+        3.39,
+        4.15,
+        4.9,
+        5.66,
+        6.41,
+        7.16,
+        7.92,
+        8.67
+      ],
+      "frame_sheets": [
+        "output/ad_frames/ad_humble_sheet1.jpg"
+      ]
+    },
+    "identified_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "name": "Basic Big Yale Hoodie",
+        "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+        "brand": "House Brand",
+        "garment_type": "hoodie",
+        "color_detail": "solid dark navy",
+        "image_file": "data/products/basic-hoodie-big-yale.jpg"
+      }
+    ],
+    "products_reused_from_earlier_run": true,
+    "shortlist_product_ids": [
+      "basic-hoodie-big-yale"
+    ],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [
+        {
+          "product_id": "basic-hoodie-big-yale",
+          "name": "Basic Big Yale Hoodie",
+          "image_file": "data/products/basic-hoodie-big-yale.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "page_file": "output/ad_effectiveness_parent.html",
+    "steps": [
+      {
+        "tool": "read_customer_profile",
+        "arguments": {},
+        "outcome": "Read profile 'parent': Parent of a Yale student."
+      },
+      {
+        "tool": "watch_ad_video",
+        "arguments": {},
+        "outcome": "Viewed 12 frames sampled across 9.1 seconds. Audio could not be assessed."
+      }
+    ],
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T06:02:33Z",
+    "cost": {
+      "requests": 2,
+      "tool_calls": 2,
+      "input_tokens": 8047,
+      "output_tokens": 860,
+      "cost_usd": "0.1235"
+    }
+  },
+  {
+    "catalogue_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "verdict": "match",
+        "seen_at_seconds": 3.4,
+        "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+      }
+    ],
+    "ad_summary": "The ad shows a foreground figure wearing a navy hoodie with large white YALE lettering beneath a concrete overpass, with a group in dark collegiate apparel behind. The sampled sequence alternates close, elevated, and wider views and ends on the group, without visible seller information, pricing, or ordering instructions.",
+    "key_moments": [
+      {
+        "timestamp_seconds": 0.4,
+        "observation": "The navy YALE hoodie appears immediately beneath an overpass, but no explanatory sales text is visible."
+      },
+      {
+        "timestamp_seconds": 1.9,
+        "observation": "An elevated view shows the hoodie's white chest lettering and people standing behind the wearer."
+      },
+      {
+        "timestamp_seconds": 4.9,
+        "observation": "A wider view shows the foreground hoodie and background Yale-lettered shirts amid the concrete pillars."
+      },
+      {
+        "timestamp_seconds": 8.7,
+        "observation": "The final sampled frame retains the group composition rather than showing a store name, price, or purchase instructions."
+      }
+    ],
+    "products_shown": [
+      "Navy pullover hoodie with large white YALE chest lettering",
+      "Dark Yale-lettered T-shirts and sweatshirts in the background"
+    ],
+    "call_to_action_seen": false,
+    "effectiveness_score": 2,
+    "verdict": "ineffective",
+    "appropriateness_score": 6,
+    "appropriateness_reasons": [
+      "The stern, camera-facing poses and dramatic framing could feel confrontational to a customer explicitly wary of intimidating imagery, although no overt threat is visible.",
+      "The simple Yale lettering suits their respect for the university's reputation, but the sequence does not connect it to a young person's academic achievement or community pride.",
+      "No visible text talks down to rural or working families or contains crude humour; however, the stylised presentation is less aligned with their preference for down-to-earth communication."
+    ],
+    "profile_fit": [
+      {
+        "profile_trait": "Prefers plain, sturdy sweatshirts and simple lettering.",
+        "ad_element": "The foreground navy hoodie has a simple, prominent white YALE design, though construction quality is not demonstrated.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Would buy only as a gift marking a relative's or family friend's admission or graduation.",
+        "ad_element": "The group presentation provides no gift occasion or explanation of whom the garment would suit.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Highly price-sensitive and wants fair pricing, a trustworthy seller, and simple rural delivery.",
+        "ad_element": "No price, Campus Customs store name, ordering route, or delivery information appears in the sampled frames.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Often watches on a phone with sound off and gives unfamiliar ads only a few seconds to explain themselves.",
+        "ad_element": "Yale apparel is visible immediately, but there is no readable sales message explaining the offer throughout the sampled sequence.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Dislikes unexplained stylised imagery and advertising aimed at campus or city insiders.",
+        "ad_element": "The overpass setting, changing camera angles, and posed group make the sequence a stylised presentation rather than a straightforward product demonstration.",
+        "effect": "hurts"
+      }
+    ],
+    "recommendations": [
+      "Open with a clear hoodie shot and a caption such as 'Celebrate their Yale admission' to establish the gift purpose immediately.",
+      "End with Campus Customs' name, the actual price, an easy ordering address, and clear delivery timing and rural shipping information.",
+      "Replace some dramatic close-ups with a friendly gift-giving scene and close views of fabric, seams, and cuffs, supported by verified material and care details."
+    ],
+    "confidence": "high",
+    "limitations": [
+      "The audio track could not be heard, so spoken messaging and any audio-related suitability concerns cannot be assessed.",
+      "Only sampled frames were available; brief intervening text or actions may not be represented.",
+      "Garment durability, actual pricing, and delivery service cannot be established from these frames."
+    ],
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_farmer.json",
+    "profile": {
+      "profile_id": "farmer",
+      "label": "Middle-aged farmer from Kansas",
+      "summary": "Runs a family farm in Kansas and has no personal tie to Yale. Knows the name as a famous East Coast university and would only buy its apparel as a gift, for example for a relative or a neighbour's child who was admitted. Judges a product by whether it is well made, fairly priced, and plainly described.",
+      "life_stage": "45 to 60, self-employed, running a family farm",
+      "relationship_to_yale": "None directly; knows Yale by reputation and through news and sport",
+      "yale_traditions_valued": [
+        "A reputation for academic excellence that even people far from it recognise",
+        "A long history as one of the country's oldest universities",
+        "The achievement it represents when a young person from home gets in"
+      ],
+      "yale_modern_values": [
+        "Whether a place like Yale is open to students from rural and working families",
+        "Staying down to earth despite its standing",
+        "Service to the country and community, not only to its own graduates"
+      ],
+      "personal_values": [
+        "Hard work and self-reliance",
+        "Family and community",
+        "Practicality and plain dealing",
+        "Getting fair value for money"
+      ],
+      "purchase_role": "buys_for_others",
+      "buys_for": [
+        "a young relative or family friend who was admitted to Yale"
+      ],
+      "motivations": [
+        "Mark a young person's achievement with a gift",
+        "Little reason to wear a school they have no connection to"
+      ],
+      "purchase_occasions": [
+        "A relative's admission or graduation",
+        "Christmas and birthdays"
+      ],
+      "decision_drivers": [
+        "A garment that looks durable and well made",
+        "A clear, fair price",
+        "A seller that looks established and trustworthy",
+        "Simple ordering and delivery to a rural address"
+      ],
+      "price_sensitivity": "high",
+      "apparel_preferences": [
+        "Plain, sturdy sweatshirts and T-shirts",
+        "Simple lettering without fashion styling",
+        "For themselves, the colours of local teams rather than a distant university"
+      ],
+      "media_habits": [
+        "Facebook, YouTube, local television, and radio",
+        "Watches on a phone in spare moments, often with the sound off",
+        "Gives an unfamiliar ad a few seconds to explain itself"
+      ],
+      "cultural_references": [
+        "Country music, college football, and rural life",
+        "Unlikely to recognise references to hip-hop music videos or internet memes"
+      ],
+      "tone_that_resonates": [
+        "Straightforward and honest about what is for sale",
+        "Good-natured humour",
+        "Respect for work and family"
+      ],
+      "call_to_action_needs": [
+        "What the product is and who it is for",
+        "The price",
+        "How to order and how long delivery takes"
+      ],
+      "turn_offs": [
+        "Stylised imagery with no explanation of what is being sold",
+        "Anything that feels aimed only at city or campus insiders",
+        "No price or seller information"
+      ],
+      "appropriateness_concerns": [
+        "Imagery that comes across as confrontational or intimidating",
+        "Any hint of talking down to rural or working people",
+        "Profanity or crude humour"
+      ]
+    },
+    "video": {
+      "duration_seconds": 9.05,
+      "has_audio": true,
+      "audio_assessed": false,
+      "frames_sampled": 12,
+      "frame_timestamps_seconds": [
+        0.38,
+        1.13,
+        1.89,
+        2.64,
+        3.39,
+        4.15,
+        4.9,
+        5.66,
+        6.41,
+        7.16,
+        7.92,
+        8.67
+      ],
+      "frame_sheets": [
+        "output/ad_frames/ad_humble_sheet1.jpg"
+      ]
+    },
+    "identified_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "name": "Basic Big Yale Hoodie",
+        "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+        "brand": "House Brand",
+        "garment_type": "hoodie",
+        "color_detail": "solid dark navy",
+        "image_file": "data/products/basic-hoodie-big-yale.jpg"
+      }
+    ],
+    "products_reused_from_earlier_run": true,
+    "shortlist_product_ids": [
+      "basic-hoodie-big-yale"
+    ],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [
+        {
+          "product_id": "basic-hoodie-big-yale",
+          "name": "Basic Big Yale Hoodie",
+          "image_file": "data/products/basic-hoodie-big-yale.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "page_file": "output/ad_effectiveness_farmer.html",
+    "steps": [
+      {
+        "tool": "read_customer_profile",
+        "arguments": {},
+        "outcome": "Read profile 'farmer': Middle-aged farmer from Kansas."
+      },
+      {
+        "tool": "watch_ad_video",
+        "arguments": {},
+        "outcome": "Viewed 12 frames sampled across 9.1 seconds. Audio could not be assessed."
+      }
+    ],
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T06:21:14Z",
+    "cost": {
+      "requests": 2,
+      "tool_calls": 2,
+      "input_tokens": 7895,
+      "output_tokens": 806,
+      "cost_usd": "0.1192"
+    }
+  },
+  {
+    "catalogue_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "verdict": "match",
+        "seen_at_seconds": 3.4,
+        "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+      }
+    ],
+    "ad_summary": "The ad shows a foreground figure wearing a navy hoodie with large white YALE lettering, with a group in dark Yale apparel behind them beneath a concrete overpass. The sequence shifts between close-ups, elevated views, and wider group shots, ending in the same setting without visible shopping information.",
+    "key_moments": [
+      {
+        "timestamp_seconds": 0.4,
+        "observation": "A navy YALE hoodie appears prominently beneath a concrete overpass."
+      },
+      {
+        "timestamp_seconds": 1.9,
+        "observation": "An elevated view shows the foreground hoodie and surrounding group on bare ground."
+      },
+      {
+        "timestamp_seconds": 4.9,
+        "observation": "A wider view displays the foreground hoodie with several Yale-branded garments behind it."
+      },
+      {
+        "timestamp_seconds": 8.7,
+        "observation": "The closing sampled frame remains on the group; no shop name, address, price, or offer is visible."
+      }
+    ],
+    "products_shown": [
+      "Navy pullover hoodie with large white serif YALE lettering across the chest",
+      "Background dark Yale-lettered T-shirts and sweatshirts"
+    ],
+    "call_to_action_seen": false,
+    "effectiveness_score": 3,
+    "verdict": "ineffective",
+    "appropriateness_score": 6,
+    "appropriateness_reasons": [
+      "The family's preference for respectful, prestigious university imagery is only partly met: classic Yale lettering is prominent, but the stark overpass setting and intense direct-to-camera presentation could feel off-key.",
+      "Their concern about university safety makes the isolated-looking setting less reassuring than welcoming campus scenes, although the frames show no threatening act or evidence that Yale is unsafe.",
+      "Nothing visible belittles study or achievement, but the ad does not reflect the academic heritage and international welcome this family values."
+    ],
+    "profile_fit": [
+      {
+        "profile_trait": "Prefers classic navy apparel with clearly shown YALE lettering for keepsakes and gifts.",
+        "ad_element": "The foreground navy hoodie repeatedly displays large white YALE lettering.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Values Yale's historic campus, academic reputation, and scenes of student life.",
+        "ad_element": "The entire visible sequence takes place under an overpass, with no recognizable campus landmark, library, or classroom.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Responds to prestigious, welcoming, respectful imagery rather than cultural references needing explanation.",
+        "ad_element": "The intense poses and stylized group presentation offer little family-visit or academic context.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Relies on visuals and readable on-screen information more than spoken English.",
+        "ad_element": "The garment branding is clear, but no explanatory shopping text or Chinese-language information appears.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Needs the shop's location and hours, official-product assurance, and prices; has medium price sensitivity.",
+        "ad_element": "No visible store identification, directions, hours, licensing information, or prices support a purchase during the visit.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Buys genuine, good-quality apparel, often several pieces as gifts.",
+        "ad_element": "The ad shows apparel being worn but provides no readable quality details or gift-shopping guidance.",
+        "effect": "hurts"
+      }
+    ],
+    "recommendations": [
+      "Keep the prominent navy YALE hoodie, but show it during a welcoming family campus visit near recognizable historic buildings, with giftable T-shirts alongside it.",
+      "End with a readable English–Chinese card giving Campus Customs' location, opening hours, shopping link or QR code, and accepted payment methods.",
+      "Add steady product close-ups with actual prices, fabric details, and verified official-licensing information so the family can assess authenticity, quality, and multiple-gift purchases."
+    ],
+    "confidence": "high",
+    "limitations": [
+      "Audio was unavailable; speech, music, and other sound could not be assessed.",
+      "Evenly sampled frames do not establish exact editing pace or exclude brief text between samples.",
+      "Fabric quality, licensing status, and payment options cannot be verified from the visible apparel."
+    ],
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_beijing_family.json",
+    "profile": {
+      "profile_id": "beijing_family",
+      "label": "Family from Beijing touring Yale with their high-school-aged child",
+      "summary": "Parents and their teenager visiting from Beijing on a tour of American universities. Yale is a possible future for the student, and the visit matters to the whole family. They buy apparel as a keepsake of the visit, as encouragement for the student, and as gifts for relatives and friends at home. English is their second language.",
+      "life_stage": "Parents in their 40s and 50s with a child aged 15 to 17",
+      "relationship_to_yale": "Prospective applicant family on a campus visit; no current tie",
+      "yale_traditions_valued": [
+        "A world-class academic reputation and standing in the Ivy League",
+        "More than three centuries of history and a historic campus",
+        "Distinguished alumni and faculty",
+        "Yale's long-standing links with China",
+        "The Yale name and crest as widely recognised symbols"
+      ],
+      "yale_modern_values": [
+        "A welcoming community for international students",
+        "Student safety and support for those far from home",
+        "A global outlook and diverse student body",
+        "Research and career opportunities"
+      ],
+      "personal_values": [
+        "Education as the family's first priority",
+        "The student's effort and achievement",
+        "Respect within the family and toward teachers and institutions",
+        "Genuine, good-quality goods"
+      ],
+      "purchase_role": "buys_for_self_and_others",
+      "buys_for": [
+        "the student",
+        "relatives at home",
+        "the student's classmates and friends"
+      ],
+      "motivations": [
+        "A keepsake of the visit that keeps the student's goal in view",
+        "Gifts that carry a recognised university name",
+        "Sharing the trip with family and friends at home"
+      ],
+      "purchase_occasions": [
+        "The day of the campus visit",
+        "An admission offer, if it comes"
+      ],
+      "decision_drivers": [
+        "Confidence that the merchandise is genuine and officially licensed",
+        "Classic designs with the Yale name or crest clearly shown",
+        "Good quality that travels well in luggage",
+        "A shop that is easy to find near campus and accepts their means of payment"
+      ],
+      "price_sensitivity": "medium",
+      "apparel_preferences": [
+        "Classic YALE lettering and crests in navy, gray, or white",
+        "Sweatshirts and T-shirts, often several as gifts",
+        "Clean, traditional styling over streetwear"
+      ],
+      "media_habits": [
+        "WeChat, Xiaohongshu, Douyin, and Bilibili rather than Instagram or TikTok",
+        "Relies on visuals and on-screen text more than spoken English",
+        "Looks up places to visit and shop before and during the trip"
+      ],
+      "cultural_references": [
+        "University rankings and famous campus landmarks",
+        "Scenes of student life, libraries, and classrooms",
+        "Unlikely to recognise American hip-hop video references or campus in-jokes"
+      ],
+      "tone_that_resonates": [
+        "Prestigious, welcoming, and respectful",
+        "Clear about what the product is",
+        "Shows the campus and the pride of belonging to it"
+      ],
+      "call_to_action_needs": [
+        "Where the shop is and when it is open",
+        "That the products are official and what they cost",
+        "Readable on-screen text; Chinese-language information is a plus"
+      ],
+      "turn_offs": [
+        "Slang or cultural references that need explaining",
+        "No view of the campus or of what is for sale",
+        "Fast cuts that make on-screen details hard to follow"
+      ],
+      "appropriateness_concerns": [
+        "Imagery that makes the university or its surroundings look unsafe",
+        "A confrontational or unserious tone attached to a university they respect",
+        "Anything that seems to belittle study or academic achievement"
+      ]
+    },
+    "video": {
+      "duration_seconds": 9.05,
+      "has_audio": true,
+      "audio_assessed": false,
+      "frames_sampled": 12,
+      "frame_timestamps_seconds": [
+        0.38,
+        1.13,
+        1.89,
+        2.64,
+        3.39,
+        4.15,
+        4.9,
+        5.66,
+        6.41,
+        7.16,
+        7.92,
+        8.67
+      ],
+      "frame_sheets": [
+        "output/ad_frames/ad_humble_sheet1.jpg"
+      ]
+    },
+    "identified_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "name": "Basic Big Yale Hoodie",
+        "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+        "brand": "House Brand",
+        "garment_type": "hoodie",
+        "color_detail": "solid dark navy",
+        "image_file": "data/products/basic-hoodie-big-yale.jpg"
+      }
+    ],
+    "products_reused_from_earlier_run": true,
+    "shortlist_product_ids": [
+      "basic-hoodie-big-yale"
+    ],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [
+        {
+          "product_id": "basic-hoodie-big-yale",
+          "name": "Basic Big Yale Hoodie",
+          "image_file": "data/products/basic-hoodie-big-yale.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "page_file": "output/ad_effectiveness_beijing_family.html",
+    "steps": [
+      {
+        "tool": "read_customer_profile",
+        "arguments": {},
+        "outcome": "Read profile 'beijing_family': Family from Beijing touring Yale with their high-school-aged child."
+      },
+      {
+        "tool": "watch_ad_video",
+        "arguments": {},
+        "outcome": "Viewed 12 frames sampled across 9.1 seconds. Audio could not be assessed."
+      }
+    ],
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T06:21:41Z",
+    "cost": {
+      "requests": 2,
+      "tool_calls": 2,
+      "input_tokens": 8000,
+      "output_tokens": 882,
+      "cost_usd": "0.1241"
+    }
+  },
+  {
+    "catalogue_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "verdict": "match",
+        "seen_at_seconds": 3.4,
+        "reason": "The foreground navy pullover hoodie matches the reference's large white serif YALE lettering in a straight chest line, rather than the arched Champion layout."
+      }
+    ],
+    "ad_summary": "The ad shows a foreground figure wearing a navy hoodie with large white YALE lettering beneath a concrete overpass, with a group in casual collegiate clothing behind them. The sequence alternates close-ups, high-angle views, and wider group shots, ending on the apparel and group rather than shopping information.",
+    "key_moments": [
+      {
+        "timestamp_seconds": 0.4,
+        "observation": "A close view establishes the navy YALE hoodie and concrete-overpass setting."
+      },
+      {
+        "timestamp_seconds": 1.9,
+        "observation": "A high-angle view shows the hoodie worn with jeans, surrounded by the wider group."
+      },
+      {
+        "timestamp_seconds": 4.9,
+        "observation": "A wider shot places the foreground hoodie against a group wearing casual tees, sweatshirts, jeans, and sneakers."
+      },
+      {
+        "timestamp_seconds": 8.7,
+        "observation": "The final sampled frame shows the white YALE chest lettering and group; no store name, URL, price, or offer appears."
+      }
+    ],
+    "products_shown": [
+      "Navy pullover hoodie with large white collegiate YALE lettering",
+      "Background navy Yale-lettered T-shirts and sweatshirts"
+    ],
+    "call_to_action_seen": false,
+    "effectiveness_score": 6,
+    "verdict": "mixed",
+    "appropriateness_score": 6,
+    "appropriateness_reasons": [
+      "The bold collegiate lettering and casual styling fit this customer's interest in Yale prestige as fashion, without visible campus-exclusivity messaging.",
+      "The overpass setting, foreground performance poses, and largely stationary background group risk feeling like borrowed hip-hop imagery, directly touching this customer's concern about urban culture used as a costume.",
+      "No visible mocking or caricature is evident, but the frames do not establish the cultural collaboration or authentic community connection this customer values."
+    ],
+    "profile_fit": [
+      {
+        "profile_trait": "Prefers navy hoodies, bold collegiate lettering, and pieces that work with everyday streetwear.",
+        "ad_element": "The navy YALE hoodie is repeatedly shown with jeans and alongside sneaker-based outfits.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Watches short social videos and skips conventional advertising.",
+        "ad_element": "The nine-second sequence uses changing camera angles and close-ups rather than a conventional product sales card.",
+        "effect": "helps"
+      },
+      {
+        "profile_trait": "Values authenticity and dislikes awkward imitation of music-video style.",
+        "ad_element": "The overpass staging and foreground-versus-background group composition suggest a music-video visual approach, but offer no visible context establishing credibility.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Needs fit and garment weight to judge a hoodie.",
+        "ad_element": "On-body views give some styling information, but tight framing and poses leave overall fit unclear; fabric weight is not demonstrated.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Needs a direct product link, sizing, and shipping information.",
+        "ad_element": "None of the sampled frames supplies a shopping destination or those purchase details.",
+        "effect": "hurts"
+      },
+      {
+        "profile_trait": "Compares price with familiar streetwear and sportswear brands.",
+        "ad_element": "No price or concrete quality information helps justify choosing this hoodie over alternatives.",
+        "effect": "hurts"
+      }
+    ],
+    "recommendations": [
+      "Add a brief Campus Customs end card and a direct product link or shoppable tag, with actual price and access to sizing and shipping details.",
+      "Include a clear full-length front and side view of the hoodie, plus a fabric close-up and verified weight or fit information.",
+      "Make the cultural connection substantive through a genuine creator or community collaboration; give collaborators visible agency and credit rather than relying on an overpass and background group to convey credibility."
+    ],
+    "confidence": "medium",
+    "limitations": [
+      "Audio is unavailable, so the sound-led appeal important to this customer cannot be assessed.",
+      "Sampled frames cannot establish exact editing rhythm or rule out information between samples; any accompanying caption or shopping link is not provided.",
+      "The frames do not establish production context, cultural collaboration, fabric weight, or actual sizing."
+    ],
+    "video_path": "data/videos/ad_humble.mp4",
+    "profile_path": "profiles/profile_urban_20.json",
+    "profile": {
+      "profile_id": "urban_20",
+      "label": "20-year-old who grew up in a big-city neighbourhood",
+      "summary": "Grew up in the urban core of a major city such as Los Angeles, Chicago, New York, or Miami, and is now working, studying locally, or both. Has no tie to Yale and would wear its apparel as style, not affiliation. Fluent in music, streetwear, and social video, and quick to notice when a brand borrows that culture without earning it.",
+      "life_stage": "20, early in work or college, living in their home city",
+      "relationship_to_yale": "None directly; knows Yale as a famous and exclusive university",
+      "yale_traditions_valued": [
+        "The name as a recognised symbol of prestige",
+        "Classic collegiate lettering as a fashion look",
+        "Ivy League standing, viewed with both interest and scepticism"
+      ],
+      "yale_modern_values": [
+        "Whether elite universities are really open to people from neighbourhoods like theirs",
+        "Representation: seeing people who look and dress like them treated with respect",
+        "Honesty about privilege rather than pretending it is not there"
+      ],
+      "personal_values": [
+        "Authenticity and being true to where they come from",
+        "Loyalty to friends and neighbourhood",
+        "Personal style and self-expression",
+        "Making their own way"
+      ],
+      "purchase_role": "buys_for_self",
+      "buys_for": [
+        "themselves"
+      ],
+      "motivations": [
+        "The collegiate streetwear look",
+        "Wearing what artists, athletes, and people they respect are wearing",
+        "A sense of aspiration, on their own terms"
+      ],
+      "purchase_occasions": [
+        "Seeing a piece in a video or on someone whose style they rate",
+        "A new release or limited run",
+        "Payday or back-to-school season"
+      ],
+      "decision_drivers": [
+        "Fit, weight, and how the garment looks worn",
+        "Credibility: who is wearing it and whether the brand feels real",
+        "Price against the streetwear and sportswear brands they already buy",
+        "A link that goes straight to the product"
+      ],
+      "price_sensitivity": "medium",
+      "apparel_preferences": [
+        "Heavyweight, roomy hoodies and crewnecks",
+        "Bold collegiate lettering in navy, black, or gray",
+        "Pieces that work with sneakers and everyday streetwear"
+      ],
+      "media_habits": [
+        "TikTok, Instagram, and YouTube, with sound on",
+        "Watches music videos and creators closely and shares what stands out",
+        "Scrolls past anything that looks like a conventional advert"
+      ],
+      "cultural_references": [
+        "Hip-hop past and present, including well-known music videos",
+        "Sneaker and streetwear culture",
+        "Pride in their own city"
+      ],
+      "tone_that_resonates": [
+        "Confident, stylish, and unforced",
+        "Led by music and visuals rather than a sales pitch",
+        "Made with the culture, not about it"
+      ],
+      "call_to_action_needs": [
+        "Where to buy, as a direct link or handle",
+        "Price, sizing, and fit",
+        "Whether it ships to them"
+      ],
+      "turn_offs": [
+        "Awkward imitation of music videos or street style",
+        "Preppy or exclusive messaging",
+        "No way to find or buy the item shown"
+      ],
+      "appropriateness_concerns": [
+        "An elite institution using urban settings or hip-hop imagery as a costume",
+        "City life shown as a caricature, or people used as background props",
+        "Mocking the artists or communities a style comes from"
+      ]
+    },
+    "video": {
+      "duration_seconds": 9.05,
+      "has_audio": true,
+      "audio_assessed": false,
+      "frames_sampled": 12,
+      "frame_timestamps_seconds": [
+        0.38,
+        1.13,
+        1.89,
+        2.64,
+        3.39,
+        4.15,
+        4.9,
+        5.66,
+        6.41,
+        7.16,
+        7.92,
+        8.67
+      ],
+      "frame_sheets": [
+        "output/ad_frames/ad_humble_sheet1.jpg"
+      ]
+    },
+    "identified_products": [
+      {
+        "product_id": "basic-hoodie-big-yale",
+        "name": "Basic Big Yale Hoodie",
+        "description": "A navy pullover hoodie with a front kangaroo pocket and large white block-serif “YALE” lettering centered on the chest.",
+        "brand": "House Brand",
+        "garment_type": "hoodie",
+        "color_detail": "solid dark navy",
+        "image_file": "data/products/basic-hoodie-big-yale.jpg"
+      }
+    ],
+    "products_reused_from_earlier_run": true,
+    "shortlist_product_ids": [
+      "basic-hoodie-big-yale"
+    ],
+    "reference_images_viewed": [],
+    "cart": {
+      "items": [
+        {
+          "product_id": "basic-hoodie-big-yale",
+          "name": "Basic Big Yale Hoodie",
+          "image_file": "data/products/basic-hoodie-big-yale.jpg",
+          "quantity": 1,
+          "size": null,
+          "unit_price_usd": null
+        }
+      ],
+      "checkout_enabled": false,
+      "note": "Homework project: the agent fills the cart only. It cannot place an order."
+    },
+    "page_file": "output/ad_effectiveness_urban_20.html",
+    "steps": [
+      {
+        "tool": "read_customer_profile",
+        "arguments": {},
+        "outcome": "Read profile 'urban_20': 20-year-old who grew up in a big-city neighbourhood."
+      },
+      {
+        "tool": "watch_ad_video",
+        "arguments": {},
+        "outcome": "Viewed 12 frames sampled across 9.1 seconds. Audio could not be assessed."
+      }
+    ],
+    "model": "gpt-6-astra",
+    "checked_at_utc": "2026-10-04T06:22:09Z",
+    "cost": {
+      "requests": 2,
+      "tool_calls": 2,
+      "input_tokens": 7970,
+      "output_tokens": 884,
+      "cost_usd": "0.1239"
+    }
+  }
+]

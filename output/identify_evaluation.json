@@ -1,0 +1,53 @@
+{
+  "model": "gpt-6-astra",
+  "run_at_utc": "2026-10-04T05:06:50Z",
+  "correct": 4,
+  "total": 4,
+  "total_cost_usd": "0.3573",
+  "rows": [
+    {
+      "image_path": "data/test_images/image_01_true.jpeg",
+      "expected_product_in_photo": true,
+      "agent_answer": "yes",
+      "agent_verdict": "match",
+      "agent_product_id": "yale-dad-t-shirt",
+      "agent_candidate_ids": [],
+      "confidence": "high",
+      "correct": true,
+      "cost_usd": "0.1422"
+    },
+    {
+      "image_path": "data/test_images/image_02_false.jpeg",
+      "expected_product_in_photo": false,
+      "agent_answer": "no",
+      "agent_verdict": "no_match",
+      "agent_product_id": null,
+      "agent_candidate_ids": [],
+      "confidence": "high",
+      "correct": true,
+      "cost_usd": "0.0312"
+    },
+    {
+      "image_path": "data/test_images/image_03_true.jpeg",
+      "expected_product_in_photo": true,
+      "agent_answer": "yes",
+      "agent_verdict": "match",
+      "agent_product_id": "dry-zone-long-sleeve",
+      "agent_candidate_ids": [],
+      "confidence": "high",
+      "correct": true,
+      "cost_usd": "0.1492"
+    },
+    {
+      "image_path": "data/test_images/image_04_false.jpeg",
+      "expected_product_in_photo": false,
+      "agent_answer": "no",
+      "agent_verdict": "no_match",
+      "agent_product_id": null,
+      "agent_candidate_ids": [],
+      "confidence": "high",
+      "correct": true,
+      "cost_usd": "0.0347"
+    }
+  ]
+}

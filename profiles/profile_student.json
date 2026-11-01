@@ -1,0 +1,88 @@
+{
+  "profile_id": "student",
+  "label": "Yale undergraduate student",
+  "summary": "A current Yale College undergraduate living in a residential college. Proud of where they are but wary of looking boastful about it, they wear Yale apparel as everyday clothing and as a sign of belonging to a college, team, or group. They are quick to spot marketing that tries too hard.",
+  "life_stage": "18 to 22, full-time student on a limited budget",
+  "relationship_to_yale": "Current undergraduate, member of a residential college and several student groups",
+  "yale_traditions_valued": [
+    "Residential college identity and friendly rivalry between colleges",
+    "The Game against Harvard and Bulldog spirit, including Handsome Dan",
+    "Academic seriousness and the motto Lux et Veritas, light and truth",
+    "Student traditions in the arts: a cappella, theatre, and student publications",
+    "A long history worn lightly rather than shown off"
+  ],
+  "yale_modern_values": [
+    "Belonging and inclusion across a diverse, international student body",
+    "Access: many classmates are on financial aid or are the first in their family at college",
+    "Community and service, including being a good neighbour to New Haven",
+    "Humility and self-awareness about privilege and elitism",
+    "Creative expression and open debate",
+    "Sustainability and responsible buying"
+  ],
+  "personal_values": [
+    "Authenticity over polish",
+    "Friendship and shared experiences",
+    "Individual style within a group identity"
+  ],
+  "purchase_role": "buys_for_self_and_others",
+  "buys_for": [
+    "themselves",
+    "teammates and club members",
+    "friends and family as occasional gifts"
+  ],
+  "motivations": [
+    "Show college, team, or club pride at games and campus events",
+    "Wear what friends and teammates are wearing",
+    "Own something that looks current, not like a tourist's gift-shop sweatshirt"
+  ],
+  "purchase_occasions": [
+    "Move-in and the start of term",
+    "The Game and other big home games",
+    "Team, club, or residential college orders",
+    "Family weekend, when someone else may be paying"
+  ],
+  "decision_drivers": [
+    "Seeing friends or other students wearing it",
+    "A design specific to their own college, team, or club",
+    "A clear price that undercuts or matches the bookstore",
+    "A quick mobile checkout"
+  ],
+  "price_sensitivity": "high",
+  "apparel_preferences": [
+    "Hoodies and crewnecks in navy or gray",
+    "Streetwear fit and styling",
+    "College, team, or club designs over plain YALE lettering"
+  ],
+  "media_habits": [
+    "Short vertical video on Instagram Reels and TikTok, mostly with sound on",
+    "Decides within two seconds whether to keep watching",
+    "Shares clips that are funny or clever with friends"
+  ],
+  "cultural_references": [
+    "Current hip-hop and pop, and parodies of well-known music videos",
+    "Internet humour, memes, and inside jokes about campus life",
+    "Classmates appearing on screen rather than models"
+  ],
+  "tone_that_resonates": [
+    "Playful, self-aware, and confident without bragging",
+    "Made by students, for students",
+    "Shows the group, not one hero"
+  ],
+  "call_to_action_needs": [
+    "Where to buy, as a link or handle that works on a phone",
+    "The price or a student offer",
+    "Whether their college or team design exists"
+  ],
+  "turn_offs": [
+    "Hard-sell messaging and long voice-overs",
+    "Ads that feel made for parents or alumni",
+    "Adults imitating student slang",
+    "Not being told where to buy or what it costs"
+  ],
+  "appropriateness_concerns": [
+    "Flaunting status or wealth, or playing up Ivy League elitism",
+    "Stereotypes about any group of students, or a cast that does not look like the student body",
+    "Borrowing from a culture or an artist in a way that mocks rather than celebrates",
+    "Disrespect toward New Haven or its residents"
+  ]
+}

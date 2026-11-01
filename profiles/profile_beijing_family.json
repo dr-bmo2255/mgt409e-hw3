@@ -1,0 +1,83 @@
+{
+  "profile_id": "beijing_family",
+  "label": "Family from Beijing touring Yale with their high-school-aged child",
+  "summary": "Parents and their teenager visiting from Beijing on a tour of American universities. Yale is a possible future for the student, and the visit matters to the whole family. They buy apparel as a keepsake of the visit, as encouragement for the student, and as gifts for relatives and friends at home. English is their second language.",
+  "life_stage": "Parents in their 40s and 50s with a child aged 15 to 17",
+  "relationship_to_yale": "Prospective applicant family on a campus visit; no current tie",
+  "yale_traditions_valued": [
+    "A world-class academic reputation and standing in the Ivy League",
+    "More than three centuries of history and a historic campus",
+    "Distinguished alumni and faculty",
+    "Yale's long-standing links with China",
+    "The Yale name and crest as widely recognised symbols"
+  ],
+  "yale_modern_values": [
+    "A welcoming community for international students",
+    "Student safety and support for those far from home",
+    "A global outlook and diverse student body",
+    "Research and career opportunities"
+  ],
+  "personal_values": [
+    "Education as the family's first priority",
+    "The student's effort and achievement",
+    "Respect within the family and toward teachers and institutions",
+    "Genuine, good-quality goods"
+  ],
+  "purchase_role": "buys_for_self_and_others",
+  "buys_for": [
+    "the student",
+    "relatives at home",
+    "the student's classmates and friends"
+  ],
+  "motivations": [
+    "A keepsake of the visit that keeps the student's goal in view",
+    "Gifts that carry a recognised university name",
+    "Sharing the trip with family and friends at home"
+  ],
+  "purchase_occasions": [
+    "The day of the campus visit",
+    "An admission offer, if it comes"
+  ],
+  "decision_drivers": [
+    "Confidence that the merchandise is genuine and officially licensed",
+    "Classic designs with the Yale name or crest clearly shown",
+    "Good quality that travels well in luggage",
+    "A shop that is easy to find near campus and accepts their means of payment"
+  ],
+  "price_sensitivity": "medium",
+  "apparel_preferences": [
+    "Classic YALE lettering and crests in navy, gray, or white",
+    "Sweatshirts and T-shirts, often several as gifts",
+    "Clean, traditional styling over streetwear"
+  ],
+  "media_habits": [
+    "WeChat, Xiaohongshu, Douyin, and Bilibili rather than Instagram or TikTok",
+    "Relies on visuals and on-screen text more than spoken English",
+    "Looks up places to visit and shop before and during the trip"
+  ],
+  "cultural_references": [
+    "University rankings and famous campus landmarks",
+    "Scenes of student life, libraries, and classrooms",
+    "Unlikely to recognise American hip-hop video references or campus in-jokes"
+  ],
+  "tone_that_resonates": [
+    "Prestigious, welcoming, and respectful",
+    "Clear about what the product is",
+    "Shows the campus and the pride of belonging to it"
+  ],
+  "call_to_action_needs": [
+    "Where the shop is and when it is open",
+    "That the products are official and what they cost",
+    "Readable on-screen text; Chinese-language information is a plus"
+  ],
+  "turn_offs": [
+    "Slang or cultural references that need explaining",
+    "No view of the campus or of what is for sale",
+    "Fast cuts that make on-screen details hard to follow"
+  ],
+  "appropriateness_concerns": [
+    "Imagery that makes the university or its surroundings look unsafe",
+    "A confrontational or unserious tone attached to a university they respect",
+    "Anything that seems to belittle study or academic achievement"
+  ]
+}
